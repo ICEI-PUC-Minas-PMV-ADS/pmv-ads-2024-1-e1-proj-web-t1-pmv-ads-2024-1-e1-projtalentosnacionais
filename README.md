@@ -1,25 +1,26 @@
-# Título do Projeto
+# Talentos Nacionais
 
-`CURSO`
+`Análise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto Desenvolvimento Aplicação Front-end`
 
-`SEMESTRE`
+`1ª Semestre de 2024`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
+O objetivo será a construção de um site voltado a divulgação de portfólio de projetos de trabalho de maneira interativa, 
+de modo que o profissional consiga divulgar suas habilidades e competências para potenciais contratantes.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+*Gabriel de Oliveira Santos
+*Gabryella Gardiano Silva
+* Henrique Rodrigues Lelis
+* Juliana Monik Moraes Silva
+* Larissa Carvalho
+* Matheus Campos Rangel
 
-## Orientador
+## Orientadora
 
-* Nome completo do professor
+* Joyce Christina de Paiva Carvalho
 
 # Documentação
 
