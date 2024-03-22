@@ -10,9 +10,8 @@ O objetivo será a construção de um site voltado a divulgação de portfólio 
 de modo que o profissional consiga divulgar suas habilidades e competências para potenciais contratantes.
 
 ## Integrantes
-
-*Gabriel de Oliveira Santos
-*Gabryella Gardiano Silva
+* Gabriel de Oliveira Santos
+* Gabryella Gardiano Silva
 * Henrique Rodrigues Lelis
 * Juliana Monik Moraes Silva
 * Larissa Carvalho
