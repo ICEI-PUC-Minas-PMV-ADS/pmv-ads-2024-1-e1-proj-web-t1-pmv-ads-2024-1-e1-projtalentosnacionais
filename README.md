@@ -1,3 +1,6 @@
+- Link do quadro do Trello para gestão das tarefas dos sprints. 
+https://trello.com/b/UVRCglT0/modelo-de-projeto-scrum-talentos-nacionais-puc-mg-eixo-1 
+
 # Talentos Nacionais
 
 `Análise e Desenvolvimento de Sistemas`
@@ -15,7 +18,7 @@ de modo que o profissional consiga divulgar suas habilidades e competências par
 * Henrique Rodrigues Lelis
 * Juliana Monik Moraes Silva
 * Larissa Carvalho
-* Matheus Campos Rangel
+
 
 ## Orientadora
 
