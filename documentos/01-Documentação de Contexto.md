@@ -12,11 +12,15 @@ O problema que o projeto de site - Talentos Nacionais - enfrentará é a dificul
 ## Objetivos
 
 O Objetivo Geral será a construção de um site voltado a divulgação de portfólio de projetos de trabalho de maneira interativa, de modo que o profissional consiga divulgar suas habilidades e competências para potenciais contratantes.
+
 Os Objetivos Específicos serão:
 
 ●	Desenvolver uma interface que permita ao usuário criar seu portfólio de trabalho por meio de textos, palavras-chaves, imagens e vídeos.
+
 ●	Implementar funcionalidades que permitam o usuário realizar link com outros aplicativos, como LinkedIn, Instagram, Facebook, Currículo Lattes.
+
 ●	Implementar um sistema de busca eficiente, permitindo que empresas contratantes consigam localizar os profissionais por meio de habilidades específicas, experiência, localização ou outros critérios relevantes.
+
  
 ## Justificativa
 
