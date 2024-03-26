@@ -13,12 +13,18 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>1- Divulgar seu portfólio de trabalho, destacando suas habilidades e competências. 
-2- Site focado na geração de oportunidade de trabalho. 
+<td>
+1-Divulgar seu portfólio de trabalho, destacando suas habilidades e competências.
+  
+2- Site focado na geração de oportunidade de trabalho.
+
 3- Com políticas de segurança de dados e proteção contra hackers.
-4- Possibilidade de receber feedback de empresas recrutadoras.
-5- Link para redes sociais.
-6- Receber referências, carta de recomendação e indicações de outros usuários.
+
+4- Possibilidade de receber feedback de empresas recrutadoras. 
+
+5- Link para redes sociais. 
+
+6- Receber referências, carta de recomendação e indicações de outros usuários.  
 </td>
 </tr>
   
