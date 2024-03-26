@@ -1,6 +1,6 @@
 # Especificação do Projeto
 
-## Perfis de Usuários xxx
+## Perfis de Usuários
 
 [Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
 
