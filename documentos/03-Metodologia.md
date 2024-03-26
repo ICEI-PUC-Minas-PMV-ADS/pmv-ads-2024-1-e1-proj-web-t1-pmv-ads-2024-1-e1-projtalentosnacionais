@@ -5,7 +5,7 @@ Segundo Garcia, et al (2022), as metodologias de desenvolvimento de software con
 
 Para Oliveira & Seabra, (2015), as metodologias de desenvolvimento de software são criadas por meio da utilização coordenada de métodos, ferramentas e procedimentos, com foco na produção de um produto de software e seus artefatos relacionados. Estas metodologias buscam o aprimoramento da utilização dos recursos, buscando reduzir custos e tempo de execução e a melhoria da qualidade do produto final. 
 
-Portanto, levando-se em consideração a importância da metodologia no desenvolvimento do projeto, esta seção apresenta a forma como será organizado o trabalho da equipe, como será executado as tarefas do projeto e as ferramentas que serão utilizadas para a manutenção dos códigos e demais artefatos.
+Portanto, levando-se em consideração a importância da metodologia no desenvolvimento do projeto, esta seção apresenta a forma como a equipe se organizará, como serão executadas as tarefas do projeto e quais as ferramentas que serão utilizadas para a construção e manutenção dos códigos e demais artefatos.
 
 ## Gerenciamento de Projeto
 
@@ -13,18 +13,14 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 "Scrum é um arranjo de trabalho (framework) dinâmico para o gerenciamento de projetos a partir de práticas interativas e incrementais que buscam propiciar mais valor ao negócio. Utilizado com mais frequência por organizações que desenvolvem softwares, o Scrum é um framework do qual as pessoas podem tratar e resolver problemas complexos e adaptativos, enquanto produtiva e criativamente entregam produtos com o mais alto valor possível" (da Silva, & Lovato, 2016, p. 03)
 
-Assim, a adoção desta metodologia ágil terá como benefícios: 
-
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.” (Amaral, Fleury e Isoni, 2019, p. 68)
-
 ### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-[Adicione informações abaixo sobre a divisão de papéis entre os membros da equipe.]
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento: Nomes de todos os membros da equipe, pois todos os membros deverão implementar uma tela/funcionalidade.
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+
+- Scrum Master: Larissa Carvalho, principal responsável pela gestão do projeto.
+- Product Owner:Juliana Monik Moraes Silva, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
+- Equipe de Desenvolvimento:  Gabriel de Oliveira Santos; Gabryella Gardiano Silva; Henrique Rodrigues Lelis;Juliana Monik Moraes Silva; Larissa Carvalho; Matheus Campos Rangel.
+- Equipe de Design: Gabriel de Oliveira Santos; Gabryella Gardiano Silva; Henrique Rodrigues Lelis;Juliana Monik Moraes Silva; Larissa Carvalho; Matheus Campos Rangel.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
