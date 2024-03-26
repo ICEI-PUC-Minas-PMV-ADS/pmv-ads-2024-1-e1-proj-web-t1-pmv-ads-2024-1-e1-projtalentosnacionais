@@ -5,7 +5,7 @@ Segundo Garcia, et al (2022), as metodologias de desenvolvimento de software con
 
 Para Oliveira & Seabra, (2015), as metodologias de desenvolvimento de software são criadas por meio da utilização coordenada de métodos, ferramentas e procedimentos, com foco na produção de um produto de software e seus artefatos relacionados. Estas metodologias buscam o aprimoramento da utilização dos recursos, buscando reduzir custos e tempo de execução e a melhoria da qualidade do produto final. 
 
-Portanto, levando-se em consideração a importância da metodologia no desenvolvimento do projeto, esta seção descreve como será a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+Portanto, levando-se em consideração a importância da metodologia no desenvolvimento do projeto, esta seção apresenta a forma como será organizado o trabalho da equipe, como será executado as tarefas do projeto e as ferramentas que serão utilizadas para a manutenção dos códigos e demais artefatos.
 
 ## Gerenciamento de Projeto
 
