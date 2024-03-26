@@ -10,12 +10,18 @@
 <th colspan="2">Perfil Profissional em busca de recolocação no mercado de trabalho  </tr>
 </tr>
 <tr>
-<td width="150px"><b>Descrição Profissional que busca divulgar seu portfólio de trabalho, visando a obtenção de vagas de emprego e oportunidades de trabalho.</b></td>
-<td width="600px">...</td>
+<td width="150px"><b> Descrição.</b></td>
+<td width="600px">Profissional que busca divulgar seu portfólio de trabalho, visando a obtenção de vagas de emprego e oportunidades de trabalho.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>...</td>
+<td>1- Divulgar seu portfólio de trabalho, destacando suas habilidades e competências. 
+2- Site focado na geração de oportunidade de trabalho. 
+3- Com políticas de segurança de dados e proteção contra hackers.
+4- Possibilidade de receber feedback de empresas recrutadoras.
+5- Link para redes sociais.
+6- Receber referências, carta de recomendação e indicações de outros usuários.
+7 -Perfil da empresa contratante e das condições da vaga. </td>
 </tr>
 </tbody>
 </table>
