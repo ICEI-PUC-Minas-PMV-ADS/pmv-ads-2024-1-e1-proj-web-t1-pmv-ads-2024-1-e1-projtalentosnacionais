@@ -10,7 +10,7 @@
 <th colspan="2">Perfil Profissional em busca de recolocação no mercado de trabalho  </tr>
 </tr>
 <tr>
-<td width="150px"><b>Descrição</b></td>
+<td width="150px"><b>Descrição Profissional que busca divulgar seu portfólio de trabalho, visando a obtenção de vagas de emprego e oportunidades de trabalho.</b></td>
 <td width="600px">...</td>
 </tr>
 <tr>
