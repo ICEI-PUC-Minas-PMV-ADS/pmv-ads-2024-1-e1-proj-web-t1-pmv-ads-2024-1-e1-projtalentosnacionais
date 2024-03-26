@@ -35,8 +35,7 @@
 <tr>
 <td><b>Necessidades</b></td>
 <td>1- Otimizar e agilizar o processo de busca de profissionais para contratação.
-2- Conhecer melhor as habilidades e competências do candidato a vaga.
-</td>
+2- Conhecer melhor as habilidades e competências do candidato a vaga.</td>
 </tr>
 </tbody>
 </table>
