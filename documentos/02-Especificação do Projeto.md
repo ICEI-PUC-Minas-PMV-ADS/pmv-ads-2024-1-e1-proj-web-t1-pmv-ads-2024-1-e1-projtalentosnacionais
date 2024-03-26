@@ -7,7 +7,7 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil Nome </Profissional em busca de recolocação no mercado de trabalho>
+<th colspan="2">Perfil Profissional em busca de recolocação no mercado de trabalho  </tr>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
