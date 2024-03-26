@@ -1,13 +1,21 @@
 
 # Metodologia
 
-Esta seção descreve a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
+Segundo Garcia, et al (2022), as metodologias de desenvolvimento de software consistem, basicamente, no conjunto de abordagens que podem ser utilizadas para a criação de sistemas de processamento de dados. Os autores ainda esclarecem que, a escolha da metodologia adequada é fundamental para o bom andamento do projeto voltado à elaboração de software, depende diretamente da escolha da metodologia mais adequada.
 
+Para Oliveira & Seabra, (2015), as metodologias de desenvolvimento de software são criadas por meio da utilização coordenada de métodos, ferramentas e procedimentos, com foco na produção de um produto de software e seus artefatos relacionados. Estas metodologias buscam o aprimoramento da utilização dos recursos, buscando reduzir custos e tempo de execução e a melhoria da qualidade do produto final. 
+
+Portanto, levando-se em consideração a importância da metodologia no desenvolvimento do projeto, esta seção descreve como será a organização da equipe para a execução das tarefas do projeto e as ferramentas utilizadas para a manutenção dos códigos e demais artefatos.
 
 ## Gerenciamento de Projeto
-A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
 
-“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.”
+A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, cujo o conceito é descrito da seguinte forma:
+
+"Scrum é um arranjo de trabalho (framework) dinâmico para o gerenciamento de projetos a partir de práticas interativas e incrementais que buscam propiciar mais valor ao negócio. Utilizado com mais frequência por organizações que desenvolvem softwares, o Scrum é um framework do qual as pessoas podem tratar e resolver problemas complexos e adaptativos, enquanto produtiva e criativamente entregam produtos com o mais alto valor possível" (da Silva, & Lovato, 2016, p. 03)
+
+Assim, a adoção desta metodologia ágil terá como benefícios: 
+
+“visão clara dos resultados a entregar; ritmo e disciplina necessários à execução; definição de papéis e responsabilidades dos integrantes do projeto (Scrum Owner, Scrum Master e Team); empoderamento dos membros da equipe de projetos para atingir o desafio; conhecimento distribuído e compartilhado de forma colaborativa; ambiência favorável para crítica às ideias e não às pessoas.” (Amaral, Fleury e Isoni, 2019, p. 68)
 
 ### Divisão de Papéis
 
