@@ -12,6 +12,7 @@ Da Silva, E. C., & Lovato, L. A. (2016). Framework Scrum: eficiência em projeto
 
 GARCIA, Caio Henrique Barbosa et al. Aplicação Mobile e Inteligência Artificial: Open Educação. Projetos de Extensão, 2022.
 
+ 
 LEITE, Gabriel. As maiores causas do turnover nas empresas e estratégias para reduzir. 2021. Disponível em: https://www.feedz.com.br/blog/maiores-causas-do-turnover-nas-empresas/. Acesso em: 26 de fevereiro de 2024.
 
 Oliveira, F. G. D, & Seabra, J. M. P. (2015). Metodologias de desenvolvimento de software: Uma análise no desenvolvimento de sistemas na web. Tecnologias Em Projeção, 6(1), 20-34.
