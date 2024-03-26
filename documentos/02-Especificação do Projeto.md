@@ -2,8 +2,6 @@
 
 ## Perfis de Usuários
 
-[Enumere e faça o detalhamento dos perfis de usuários. Utilize o modelo de tabela abaixo para sintetizá-los.]
-
 <table>
 <tbody>
 <tr align=center>
@@ -20,13 +18,14 @@
 3- Com políticas de segurança de dados e proteção contra hackers.
 4- Possibilidade de receber feedback de empresas recrutadoras.
 5- Link para redes sociais.
-6- Receber referências, carta de recomendação e indicações de outros usuários. </td>
+6- Receber referências, carta de recomendação e indicações de outros usuários.
+</td>
 </tr>
-</tbody>
-</table>
-
+  
+<table>
+<tbody>
 <tr align=center>
-<th colspan="2">Perfil Empresa contratante e Recrutadora</tr>
+<th colspan="3">Perfil Empresas Contratantes </tr>
 </tr>
 <tr>
 <td width="150px"><b> Descrição.</b></td>
@@ -34,11 +33,16 @@
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>1- Otimizar e agilizar o processo de busca de profissionais para contratação.
-2- Conhecer melhor as habilidades e competências do candidato a vaga.</td>
+<td>
+1- Otimizar e agilizar o processo de busca de profissionais para contratação.
+2- Conhecer melhor as habilidades e competências do candidato a vaga
+</td>
 </tr>
 </tbody>
 </table>
+
+
+
 ## Histórias de Usuários
 
 [Apresente aqui as histórias de usuários que são relevantes para o projeto da solução.]
