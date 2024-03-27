@@ -15,12 +15,27 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 ### Divisão de Papéis
 
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
+Para execução das atividades do projeto, a equipe se organizou da seguinte forma:
 
-- Scrum Master: Larissa Carvalho, principal responsável pela gestão do projeto.
-- Product Owner:Juliana Monik Moraes Silva, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
-- Equipe de Desenvolvimento:  Gabriel de Oliveira Santos; Gabryella Gardiano Silva; Henrique Rodrigues Lelis;Juliana Monik Moraes Silva; Larissa Carvalho; Matheus Campos Rangel.
-- Equipe de Design: Gabriel de Oliveira Santos; Gabryella Gardiano Silva; Henrique Rodrigues Lelis;Juliana Monik Moraes Silva; Larissa Carvalho; Matheus Campos Rangel.
+**- Scrum Master:** Larissa Carvalho
+
+**- Product Owner:** Juliana Monik Moraes Silva
+
+**- Equipe de Desenvolvimento:**
+- Gabriel de Oliveira Santos
+- Gabryella Gardiano Silva
+- Henrique Rodrigues Lelis
+- Juliana Monik Moraes Silva
+- Larissa Carvalho
+- Matheus Campos Rangel
+ 
+**- Equipe de Design:**
+- Gabriel de Oliveira Santos
+- Gabryella Gardiano Silva
+- Henrique Rodrigues Lelis
+- Juliana Monik Moraes Silva
+- Larissa Carvalho
+- Matheus Campos Rangel
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
