@@ -11,7 +11,7 @@ Portanto, levando-se em consideração a importância da metodologia no desenvol
 
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, cujo o conceito é descrito da seguinte forma:
 
-"Scrum é um arranjo de trabalho (framework) dinâmico para o gerenciamento de projetos a partir de práticas interativas e incrementais que buscam propiciar mais valor ao negócio. Utilizado com mais frequência por organizações que desenvolvem softwares, o Scrum é um framework do qual as pessoas podem tratar e resolver problemas complexos e adaptativos, enquanto produtiva e criativamente entregam produtos com o mais alto valor possível" (da Silva, & Lovato, 2016, p. 03)
+"Scrum é um arranjo de trabalho (framework) dinâmico para o gerenciamento de projetos a partir de práticas interativas e incrementais que buscam propiciar mais valor ao negócio. Utilizado com mais frequência por organizações que desenvolvem softwares, o Scrum é um framework do qual as pessoas podem tratar e resolver problemas complexos e adaptativos, enquanto produtiva e criativamente entregam produtos com o mais alto valor possível" (Da Silva, & Lovato, 2016, p. 03)
 
 ### Divisão de Papéis
 
