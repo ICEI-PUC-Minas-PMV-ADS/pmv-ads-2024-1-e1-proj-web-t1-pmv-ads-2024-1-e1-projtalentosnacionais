@@ -95,7 +95,7 @@ Na etapa 01 foram feitas as seguintes atividades:
 
 - Formação da equipe do projeto
 - Escolha da proposta do projeto
-- Desenvolvimento da documentação de Contexto e especificação do projeto
+- Desenvolvimento da documentação de contexto e especificação do projeto
 
 Nesta etapa foi produzido o seguinte documento:
 
@@ -128,13 +128,26 @@ Como evidências da execução da etapa 01, temos os seguintes artefatos:
 
 ![capa do projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/47fdcbcf-debf-4534-a859-027c1d721cd9)
 
-3- Reuniões Teams
+3- Reuniões da equipe
 
 ![WhatsApp Image 2024-03-28 at 7 13 14 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/e3095061-8cff-4116-aa7d-7bbba7f0d6c8)
 
 
 
 ![WhatsApp Image 2024-03-28 at 7 14 27 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/95e2778f-00f4-4f60-868e-09237aa79d31)
+
+
+4- Slides apresentação do projeto na Etapa 01 
+
+![WhatsApp Image 2024-03-28 at 7 23 10 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/7f77a8ab-9acc-48cd-a1e7-4ceb6d137008)
+
+![WhatsApp Image 2024-03-28 at 7 23 44 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/03eb09aa-813d-4087-a14b-167cf2032354)
+
+![WhatsApp Image 2024-03-28 at 7 24 07 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/6b342e9f-1f2f-4352-83c5-2bed771f8cea)
+
+
+
+
 
 
 
