@@ -44,11 +44,26 @@ Para execução das atividades do projeto, a equipe se organizou da seguinte for
 
 ### Processo
 
-[Adicione informações sobre detalhes da implementação do Scrum seguido pela equipe. A equipe poderá fazer uso de ferramentas on-line (GitHub Project ou Trello) para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução. O quadro Kanban deverá apresentar a estrutura abaixo. Inserir despois das informações uma imagem do Kanban do projeto.]
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+A equipe decidiu por utilizar a ferramenta on-line **Trello** para a organização, distribuição e acompanhamento das tarefas do projeto. A estrutura do trabalho seguirá o padrão abaixo descrito: 
+
+
+| **Etapa** | **Atividade**| **Fase do Projeto** |
+|-----------| ------------ | --------------------|
+| E1 | Documentação de Contexto      | Doing|
+| E1 | Especificação do Projeto      | Doing|
+| E2 | Metodologia                   | Doing|
+| E2 | Projeto de Interface          | Doing|
+| E3 | Template padrão da aplicação  | To do|
+| E3 | Programação de funcionalidades| To do|
+| E4 | Plano de Testes de Software   | To do|
+| E4 | Registro de Testes de Software| To do|
+| E5 | Apresentação do Projeto       | To do|
+
+
+- **Backlog:** recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
+- **To Do:** Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
+- **Doing:** Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+- **Done:** nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
@@ -73,7 +88,32 @@ Para execução das atividades do projeto, a equipe se organizou da seguinte for
   <img src="https://user-images.githubusercontent.com/100447878/164068979-9eed46e1-9b44-461e-ab88-c2388e6767a1.png"
     <figcaption>Figura 3 - Tela do esquema de cores e categorias</figcaption>
 </figure> 
-  
+
+### Etapa 01
+
+Na etapa 01 foram feitas as seguintes atividades: 
+
+- Formação da equipe do projeto
+- Escolha da proposta do projeto
+- Desenvolvimento da documentação de Contexto e especificação do projeto
+
+Nesta etapa foi produzido o seguinte documento:
+
+| ** Documentação de Contexto**|Especificação de Projeto |
+|------------------------------|-------------------------|
+|       Introdução             | Perfis de Usuário |
+|       Problema               | História de Usuários |
+|       Objetivos              | Requisitos Funcionais do Projeto |
+|     Justificativa            | Requisitos Não Funcionais do Projeto |
+|     Público Alvo             | Questionário |
+
+### Execução
+
+A equipe se organizou em duplas, dividindo as atividades a serem desenvolvidas entre os membros. Foram realizadas reuniões semanaistoda sexta-feira as 21:30, para ajuste das tarefas que foram realizadas e planejamento das atividades a serem feitas na semana seguinte. Todo o trabalho foi supervisionado pela Professora Dra Joyce Christina de Paiva Carvalho.
+
+### Evidências 
+
+
 ### Ferramentas
 
 [Descreva aqui as ferramentas empregadas no projeto e os ambiente de trabalho utilizados pela  equipe para desenvolvê-lo. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).]
