@@ -107,49 +107,6 @@ Nesta etapa foi produzido o seguinte documento:
 |     Justificativa       | Requisitos Não Funcionais do Projeto |
 |     Público Alvo        | Questionário |
 
-### Execução
-
-A equipe se organizou em duplas, dividindo as atividades a serem desenvolvidas entre os membros. Foram realizadas reuniões semanaistoda sexta-feira as 21:30, para ajuste das tarefas que foram realizadas e planejamento das atividades a serem feitas na semana seguinte.
-
-Todo o trabalho foi supervisionado pela Professora Dra Joyce Christina de Paiva Carvalho.
-
-### Evidências 
-
-Como evidências da execução da etapa 01, temos os seguintes artefatos: 
-
-1- Entrega do Projeto, dia 15 de março de 2024
-
-
-![entrega do projeto 15 março](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/522199ad-50ca-4aeb-92a3-81bf6e0f5761)
-
-
-2- Capa e Sumário do Projeto 
-
-
-![capa do projeto](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/47fdcbcf-debf-4534-a859-027c1d721cd9)
-
-3- Reuniões da equipe
-
-![WhatsApp Image 2024-03-28 at 7 13 14 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/e3095061-8cff-4116-aa7d-7bbba7f0d6c8)
-
-
-
-![WhatsApp Image 2024-03-28 at 7 14 27 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/95e2778f-00f4-4f60-868e-09237aa79d31)
-
-
-4- Slides apresentação do projeto na Etapa 01 
-
-![WhatsApp Image 2024-03-28 at 7 23 10 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/7f77a8ab-9acc-48cd-a1e7-4ceb6d137008)
-
-![WhatsApp Image 2024-03-28 at 7 23 44 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/03eb09aa-813d-4087-a14b-167cf2032354)
-
-![WhatsApp Image 2024-03-28 at 7 24 07 PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/6b342e9f-1f2f-4352-83c5-2bed771f8cea)
-
-
-
-
-
-
 
 
 ### Ferramentas
