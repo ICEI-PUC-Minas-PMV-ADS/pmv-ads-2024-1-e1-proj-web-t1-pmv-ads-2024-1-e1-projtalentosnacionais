@@ -125,7 +125,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/tree/main)|
 | Documentos do projeto               | GitHub                             |                             (https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/tree/main/documentos) Projeto de Interface                | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
+| Gerenciamento do Projeto            | GitHub Projects                    |(https://trello.com/b/UVRCglT0/modelo-de-projeto-scrum-talentos-nacionais-puc-mg-eixo-1)|
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
 
