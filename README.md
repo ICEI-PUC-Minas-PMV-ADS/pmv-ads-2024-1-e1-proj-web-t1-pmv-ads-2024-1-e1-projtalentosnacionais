@@ -1,5 +1,3 @@
-- Link do quadro do Trello para gestão das tarefas dos sprints. 
-https://trello.com/b/UVRCglT0/modelo-de-projeto-scrum-talentos-nacionais-puc-mg-eixo-1 
 
 # Talentos Nacionais
 
