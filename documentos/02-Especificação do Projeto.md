@@ -68,9 +68,8 @@ Com base nas Histórias de Usuários, foram elaborados requisitos de solução:
 
 ### Requisitos Funcionais
 
-[Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID     | Descrição                       | Prioridade |
+| ID    | Descrição                       | Prioridade |
 |-------|---------------------------------|----        |
 | RF-01  |  A aplicação deve permitir ao usuário criar uma conta com login e senha.| Alta| 
 | RF-02  |  A aplicação deve permitir ao usuário inserir vídeos de 2 minutos e arquivos em PDF.| Alta|
@@ -86,7 +85,7 @@ Com base nas Histórias de Usuários, foram elaborados requisitos de solução:
 ### Requisitos não Funcionais
 
 
-|ID      | Descrição               |Prioridade |
+| ID     | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 | O site deve ser compatível com os principais navegadores de internet: Chrome, Firefox, Safari, Edge.| Alta  | 
 | RNF-02 | A aplicação deve permitir a visualização em diversos tipos de dispositivos.| Alta  |
