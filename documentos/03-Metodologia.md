@@ -53,8 +53,8 @@ A equipe decidiu por utilizar a ferramenta on-line **Trello** para a organizaç�
 | E1 | Especificação do Projeto      | Doing|
 | E2 | Metodologia                   | Doing|
 | E2 | Projeto de Interface          | Doing|
-| E3 | Template padrão da aplicação  | To do|
-| E3 | Programação de funcionalidades| To do|
+| E3 | Template padrão da aplicação  | Doing|
+| E3 | Programação de funcionalidades| Doing|
 | E4 | Plano de Testes de Software   | To do|
 | E4 | Registro de Testes de Software| To do|
 | E5 | Apresentação do Projeto       | To do|
