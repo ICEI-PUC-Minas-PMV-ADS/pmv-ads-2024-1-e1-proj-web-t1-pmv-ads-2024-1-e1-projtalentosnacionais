@@ -112,14 +112,10 @@ Nesta etapa foi produzido o seguinte documento:
 ### Ferramentas
 As ferramentas utilizadas são os softwares:
 
-•	TRELLO:   ferramenta de gerenciamento de tarefas, no qual foi montado o quadro Scrum;
-
 •	GITHUB: ferramenta de gestão de código fonte;
 
 •	CANVAS:  uma ferramenta que permite criar ideias visuais e auxiliar na criação do projeto do protótipo do projeto; 
 
-
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
