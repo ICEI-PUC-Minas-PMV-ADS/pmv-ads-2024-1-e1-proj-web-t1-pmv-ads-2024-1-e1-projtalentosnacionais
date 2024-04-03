@@ -109,6 +109,21 @@ Nesta etapa foi produzido o seguinte documento:
 
 
 
+____________
+
+### Processos:
+Com a finalidade de subvidir as tarefas a serem executadas a cada membro do projeto, a equipe está utilizando o repositório  GitHub, utilizando as práticas do quadro Scrum que divide-se em:
+
+Product Backlog (Backlog do Produto): sua função é de serem descritas  as tarefas que serão executadas na determinada Sprint.  As atividades  especificadas no decorrer do projeto são incorporadas englobadas no backlog do produto.
+
+To Do: representa o Sprint do Backlog que esta sendo diligenciado.
+
+In progress: lista de todas as tarefas que estão sendo projetadas.
+
+Done: são as tarefas que foram finalizadas pela equipe em determinada Sprint.
+
+(// lembrar de colocar print do quadro scrum quando finalizar ) 
+
 ### Ferramentas
 As ferramentas utilizadas são os softwares:
 
