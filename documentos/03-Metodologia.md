@@ -129,7 +129,7 @@ As ferramentas utilizadas são os softwares:
 
 •	GITHUB: ferramenta de gestão de código fonte;
 
-•	CANVAS:  uma ferramenta que permite criar ideias visuais e auxiliar na criação do projeto do protótipo do projeto; 
+•	CANVA:  uma ferramenta que permite criar ideias visuais e auxiliar na criação do projeto do protótipo do projeto; 
 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
