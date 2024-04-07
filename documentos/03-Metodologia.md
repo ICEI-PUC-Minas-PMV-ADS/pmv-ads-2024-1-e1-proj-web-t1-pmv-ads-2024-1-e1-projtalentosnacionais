@@ -57,17 +57,21 @@ As ferramentas utilizadas são os softwares:
 
 •	GITHUB: ferramenta de gestão de código fonte;
 
+· FIGMA: ferramenta utilizada para criação de wireframes com a finalidade de planejar protótipos de baixa qualidade.
+
 •	CANVA:  uma ferramenta que permite criar ideias visuais e auxiliar na criação do projeto do protótipo do projeto; 
 
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/tree/main|
+| Projeto de Interface         | Canva                            | [(https://www.canva.com/design/DAGAopLhHmI/c4x8-grdaRQvIHPb6FJclg/edit)]
 | Documentos do projeto               | GitHub                             |                             https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/tree/main/documentos              | Figma                              | http://....                            |
 |Projeto de interface e wireframes    | Figma              |https://www.figma.com/file/M7UCxAQdbR7fHpxgZzfzmc/Prototipo-Talentos-Nacionais?type=design&node-id=0-1&mode=design&t=X2mM3sAiNVrdchZ1-0| 
 
+               
 
 
-### Estratégia de Organização de Codificação 
+
+(### Estratégia de Organização de Codificação 
 
 Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais). 
