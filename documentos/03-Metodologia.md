@@ -64,8 +64,8 @@ As ferramentas utilizadas são os softwares:
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/tree/main|
 | Documentos do projeto               | GitHub                             |                             https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/tree/main/documentos              | Figma                              | http://....                            |
-| Gerenciamento do Projeto            | GitHub Projects                    |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/968/views/1
-| Hospedagem                          | GitHub Pages                       | http://....                            |
+|Projeto de interface e wireframes    | Figma              |https://www.figma.com/file/M7UCxAQdbR7fHpxgZzfzmc/Prototipo-Talentos-Nacionais?type=design&node-id=0-1&mode=design&t=X2mM3sAiNVrdchZ1-0| 
+
 
 
 ### Estratégia de Organização de Codificação 
