@@ -15,6 +15,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 ## Protótipo
 
 ### Protótipo de baixa fidelidade
+ Com o propósito da criação do design de interface, foi projetado o wireframe de baixa fidelidade para auxiliar na diagramação da página, com  o intuito de esboçar dessa forma o produto final. 
 
  ·Figura 1: Home Page
  
