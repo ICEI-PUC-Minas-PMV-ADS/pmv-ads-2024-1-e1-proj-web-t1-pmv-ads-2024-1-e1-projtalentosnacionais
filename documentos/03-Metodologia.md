@@ -42,13 +42,13 @@ ____________
 ### Processos:
 Com a finalidade de subvidir as tarefas a serem executadas a cada membro do projeto, a equipe está utilizando o repositório  GitHub, utilizando as práticas do quadro Scrum que divide-se em:
 
-Product Backlog (Backlog do Produto): sua função é de serem descritas  as tarefas que serão executadas na determinada Sprint.  As atividades  especificadas no decorrer do projeto são incorporadas e englobadas no backlog do produto.
+·Product Backlog (Backlog do Produto): Lista organizada com as tarefas, as atribuições identificadas no transcorrer do projeto são acrescentadas na lista.
 
-To Do: representa o Sprint do Backlog que esta sendo diligenciado.
+·To Do: representa as tarefas do Sprint que ainda não estão sendo feitas. 
 
-In progress: lista de todas as tarefas que estão sendo projetadas.
+·In progress:  lista da Sprint que estão sendo feitas neste momento .
 
-Done: são as tarefas que foram finalizadas pela equipe em determinada Sprint.
+·Done: são  as tarefas finalizadas e que foram testadas e estão concluídas para serem apresentados aos usuários.
 
 (// lembrar de colocar print do quadro scrum quando finalizar ) 
 
