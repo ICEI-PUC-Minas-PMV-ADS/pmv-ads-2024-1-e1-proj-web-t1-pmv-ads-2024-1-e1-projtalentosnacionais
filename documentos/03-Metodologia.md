@@ -64,7 +64,7 @@ As ferramentas utilizadas são os softwares:
 
 | AMBIENTE                            | PLATAFORMA                         | LINK DE ACESSO                         |
 |-------------------------------------|------------------------------------|----------------------------------------|
-| Projeto de Interface         | Canva                            | [(https://www.canva.com/design/DAGAopLhHmI/c4x8-grdaRQvIHPb6FJclg/edit)]
+| Projeto de Interface         | Canva                            | [https://www.canva.com/design/DAGAopLhHmI/c4x8-grdaRQvIHPb6FJclg/edit]
 | Documentos do projeto               | GitHub                             |                             https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/tree/main/documentos              | Figma                              | http://....                            |
 |Projeto de interface e wireframes    | Figma              |https://www.figma.com/file/M7UCxAQdbR7fHpxgZzfzmc/Prototipo-Talentos-Nacionais?type=design&node-id=0-1&mode=design&t=X2mM3sAiNVrdchZ1-0| 
 
