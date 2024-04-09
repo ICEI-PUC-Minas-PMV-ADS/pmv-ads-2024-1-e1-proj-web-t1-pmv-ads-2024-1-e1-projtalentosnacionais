@@ -34,7 +34,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  
  ·Figura 8: Cadastro Redes Sociais
  
- ·Figura 9: Resultado Empresas
+ ·Figura 9: Resultado das Empresas
 
  ### Home Page: 
   A Home Page, ou seja a página principal no qual guiará o usuário como sua porta de entrada e irá direcioná-lo a outros setores do website.
@@ -72,6 +72,7 @@ Figura 4: Tela de Cadastro
 A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website foi criado e conhecer sobre a equipe que esta construindo o website. 
 
 ![Sobre nos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/4c2310a3-6741-4f16-98cb-a88b9bc10957)
+
 Figura 5: Sobre Nós
 
 ### Feedback do Usuário
@@ -83,10 +84,28 @@ Figura 5: Sobre Nós
 Figura 6: Feedback do Usuário
 
 ### Informações Profissionais
- As informações Profissionais será 
- 
+ Ao ser direcionado para a página Informações Profissionais o usuário poderá criar o seu portfólio profissional personalizado com vídeos pequenos, fotos, textos, explicando sobre sua vida profissional, acadêmica e qual cargo almeja. 
 
- 
+ ![Informacoes profisionais](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/ff758858-7f31-4d95-bafc-509126c17e90)
+
+ Figura 7: Informações Profissionais
+
+ ### Cadastro Redes Sociais 
+  Permitirá ao usuário cadastrar suas redes sociais profissionais ou pessoais para que o recrutador tenha oportunidade de conhecer mais sobre sua personalidade.
+
+ ![Cadastro das redes sociais](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/50a9b710-4f1f-4cca-a2ad-27129a140f81)
+
+ Figura 8 : Cadastro Redes Sociais
+
+  ### Resultado das Empresas
+ Na tela Resultado das Empresas, permitirá que o usuário receba o resultado de sua aprovação ou desclassificação das empresas contratantes,
+
+![Resultado das empresas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/afbba22b-04eb-4d52-9fa9-2f9a0a15ba2e)
+
+Figura 9: Resultado das Empresas
+
+
+
 
 ![Group 15](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/91f754f0-f36a-42a1-aa25-07bbd99e0f75)
 
