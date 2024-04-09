@@ -24,7 +24,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
  ·Figura 3: Tela Principal
  
- ·Figura 4: Criar Conta
+ ·Figura 4: Tela de Cadastro
  
  ·Figura 5: Sobre Nós
  
@@ -58,9 +58,33 @@ Figura 1 - Home Page
 
 Figura 3- Tela Principal
 
+### Tela de Cadastro
+
+A tela de cadastro do usuário solicitará as informações que são necessárias para a criação de sua conta e senha, dessa forma, o visitante poderá ter acesso ao seu objetivo, que será o cadastro de seu portfólio profissional.
+ 
+![Criar conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/f7d19e62-43f4-4ceb-9ea9-bf8df5b78785)
+
+Figura 4: Tela de Cadastro
 
 
+### Sobre Nós
 
+A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website foi criado e conhecer sobre a equipe que esta construindo o website. 
+
+![Sobre nos](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/4c2310a3-6741-4f16-98cb-a88b9bc10957)
+Figura 5: Sobre Nós
+
+### Feedback do Usuário
+ O feedback o usuário permitirá a equipe do projeto compreender sobre o que deve ser alterado, dificuldades ocorridas durante a interação do usuário no website, analisar se objetivo do produto criado foi alcançado, as experiências positivas do visitante. Dessa forma, poderá  aprimorar o produto.
+
+
+![Feedback do usuario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/acd63c34-f796-44e5-be91-d1863472c5ab)
+
+Figura 6: Feedback do Usuário
+
+### Informações Profissionais
+ As informações Profissionais será 
+ 
 
  
 
