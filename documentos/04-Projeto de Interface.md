@@ -98,7 +98,7 @@ Figura 6: Feedback do Usuário
  Figura 8 : Cadastro Redes Sociais
 
   ### Resultado das Empresas
- Na tela Resultado das Empresas, permitirá que o usuário receba o resultado de sua aprovação ou desclassificação das empresas contratantes,
+ Na tela Resultado das Empresas, permitirá que o usuário receba o resultado de sua aprovação ou desclassificação das empresas contratantes.
 
 ![Resultado das empresas](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/afbba22b-04eb-4d52-9fa9-2f9a0a15ba2e)
 
