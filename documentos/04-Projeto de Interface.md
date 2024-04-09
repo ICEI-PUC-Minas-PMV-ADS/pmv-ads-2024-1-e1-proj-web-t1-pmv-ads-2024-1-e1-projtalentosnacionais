@@ -44,7 +44,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 Figura 1 - Home Page
 
 ### Login
- A tela de Login permitirá que o usuário acesse ao Sistema,faça o seu cadastrado com as informações solicitadas, as credenciais que foram registradas auxiliará na identificação do usuário no Sistema.
+ A tela de Login permitirá que o usuário acesse ao Sistema, faça o seu cadastrado com as informações solicitadas, as credenciais que foram registradas auxiliará na identificação do usuário no Sistema.
 
  ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/e49902a1-3ee2-4e91-9880-718f3883d031)
 
@@ -60,7 +60,7 @@ Figura 3- Tela Principal
 
 ### Tela de Cadastro
 
-A tela de cadastro do usuário solicitará as informações que são necessárias para a criação de sua conta e senha, dessa forma, o visitante poderá ter acesso ao seu objetivo, que será o cadastro de seu portfólio profissional.
+A tela de cadastro do usuário solicitará as informações que são necessárias para a criação de sua conta e senha, dessa forma, o visitante poderá ter acesso ao seu objetivo, que será o cadastro de seu portfólio profissional e candidatar nas vagas que interessarem.
  
 ![Criar conta](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/f7d19e62-43f4-4ceb-9ea9-bf8df5b78785)
 
@@ -76,7 +76,8 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
 Figura 5: Sobre Nós
 
 ### Feedback do Usuário
- O feedback o usuário permitirá a equipe do projeto compreender sobre o que deve ser alterado, dificuldades ocorridas durante a interação do usuário no website, analisar se objetivo do produto criado foi alcançado, as experiências positivas do visitante. Dessa forma, poderá  aprimorar o produto.
+ O feedback o usuário permitirá a equipe do projeto compreender sobre o que deve ser alterado, dificuldades ocorridas durante a interação do usuário no website, analisar se objetivo do produto criado foi alcançado, as experiências positivas do visitante. 
+ Dessa forma, poderá  aprimorar o produto.
 
 
 ![Feedback do usuario](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/acd63c34-f796-44e5-be91-d1863472c5ab)
