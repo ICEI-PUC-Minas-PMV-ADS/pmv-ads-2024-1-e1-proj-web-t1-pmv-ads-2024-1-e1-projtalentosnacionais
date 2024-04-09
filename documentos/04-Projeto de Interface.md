@@ -16,12 +16,13 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 ### Protótipo de baixa fidelidade
  Com o propósito da criação do design de interface, foi projetado o wireframe de baixa fidelidade para auxiliar na diagramação da página, com  o intuito de esboçar dessa forma o produto final. 
+ 
 
  ·Figura 1: Home Page
  
  ·Figura 2: Login
 
- ·Figura 3: Página Principal
+ ·Figura 3: Tela Principal
  
  ·Figura 4: Criar Conta
  
@@ -35,7 +36,33 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  
  ·Figura 9: Resultado Empresas
 
+ ### Home Page: 
+  A Home Page, ou seja a página principal no qual guiará o usuário como sua porta de entrada e irá direcioná-lo a outros setores do website.
 
+![home page](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/86507c72-3c95-4172-9d71-56c4b90a59a7)
+
+Figura 1 - Home Page
+
+### Login
+ A tela de Login permitirá que o usuário acesse ao Sistema,faça o seu cadastrado com as informações solicitadas, as credenciais que foram registradas auxiliará na identificação do usuário no Sistema.
+
+ ![login](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/e49902a1-3ee2-4e91-9880-718f3883d031)
+
+ Figura 2- Login
+
+
+### Tela Principal
+ A tela Principal guiará ao usuário, após ter sua conta cadastrada aos links que direcionará ao visitante para outras páginas do site. 
+
+![principal](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/52d52882-bcdb-46ae-82e5-7021fb918dc7)
+
+Figura 3- Tela Principal
+
+
+
+
+
+ 
 
 ![Group 15](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/91f754f0-f36a-42a1-aa25-07bbd99e0f75)
 
