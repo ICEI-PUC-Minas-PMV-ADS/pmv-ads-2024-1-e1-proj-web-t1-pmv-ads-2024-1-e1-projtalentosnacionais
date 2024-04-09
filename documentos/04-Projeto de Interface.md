@@ -108,6 +108,8 @@ Figura 9: Resultado das Empresas
 
 
 
+
+
 ![Group 15](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/91f754f0-f36a-42a1-aa25-07bbd99e0f75)
 
 
