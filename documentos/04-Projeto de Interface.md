@@ -40,7 +40,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  
  <em>·Criar Conta:</em> o botão Criar Conta após ser clicado, permitirá ao usuário registrar suas informações para efetivar o seu cadastro;
 
- <em>·Recuperar Senha:</em> caso o usuário, esqueça de seu e-mail e senha registradas, o botão Recuperar Senha permitirá a sua recuperação.
+ <em>·Recuperar Senha:</em> caso o usuário esqueça de seu e-mail e senha registrados  através dessa interação irá recuperar a senha.
  
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/e49902a1-3ee2-4e91-9880-718f3883d031">
@@ -66,7 +66,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 A tela de cadastro do usuário solicitará as informações que são necessárias para a criação de sua conta e senha, dessa forma, o visitante poderá ter acesso ao seu objetivo, que será o cadastro de seu portfólio profissional e candidatar nas vagas que interessarem.
 
- Conforme a Figura 05, a tela de Cadastro apresentará  formulários com as informaçōes pessoais do usuário como por exemplo: Nome, Idade, Cidade, Contato.
+ Conforme a Figura 08, a tela de Cadastro apresentará  formulários com as informaçōes pessoais do usuário como por exemplo: Nome, Idade, Cidade, Contato.
  A tela poderá ser acessada, após os usuários registrarem na tela de Login. 
 
 
@@ -93,10 +93,12 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
 
 
 ### Feedback do Usuário
- O feedback o usuário permitirá a equipe do projeto compreender sobre o que deve ser alterado, dificuldades ocorridas durante a interação do usuário no website, analisar se objetivo do produto criado foi alcançado, as experiências positivas do visitante. 
- Dessa forma, poderá  aprimorar o produto.
+ O feedback do usuário permitirá a equipe do projeto compreender sobre  o que ocorreu em sua interação do usuário, as dificuldades, analisar se o objetivo do produto criado foi alcançado e as experiências positivas do visitante. 
+ Dessa forma poderá aprimorar a experiência.
    
    Na figura 10 apresenta-se o componenete:
+
+  <em>·Area de texto para edição do feedback:</em>: área de texto para edição do feedback do usuário, permitindo que os usuários faça as funções CRUD (Create, Remove, Update and Delete).
 
  <em>·Botão de Menu:</em> ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.<figure>
  
@@ -105,7 +107,7 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
 </figure>
 
 ### Informações Profissionais
- Ao ser direcionado para a página Informações Profissionais o usuário poderá criar o seu portfólio profissional personalizado com vídeos pequenos, fotos, textos, explicando sobre sua vida profissional, acadêmica e qual cargo almeja. 
+ Ao ser direcionado para a página Informações Profissionais o usuário poderá criar o seu portfólio profissional personalizado com fotos e texto explicando sobre sua vida profissional, acadêmica e qual cargo almeja. 
 
 · Será apresentado nas Informações Profissionais, conforme a a figura 11, caixas de formulários com o elemento <input> que permitirá o usuário colocar seus dados profissionais como por exemplo Profissão, Carreira Acadêmica, Pretensão Salarial.
 
@@ -118,7 +120,8 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
 
 
  ### Cadastro Redes Sociais 
-  Permitirá ao usuário cadastrar suas redes sociais profissionais ou pessoais para que o recrutador tenha oportunidade de conhecer mais sobre sua personalidade conforme a figura 12, o usuário colocará o link de suas redes sociais na caixa formulário e posteriormente clicará em Salvar.
+  Permitirá ao usuário cadastrar suas redes sociais, profissionais ou pessoais, para que o recrutador tenha oportunidade de conhecer mais sobre sua personalidade.
+  Conforme a figura 12, o usuário colocará o link de suas redes sociais na caixa formulário e posteriormente clicará em Salvar.
 
   <em>·Botão de Menu:</em> ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.  
   <figure>
@@ -127,7 +130,7 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
 </figure>
 
   ### Resultado das Empresas
- Na tela Resultado das Empresas, permitirá que o usuário receba o resultado de sua aprovação ou desclassificação das empresas contratantes no qual terá a imagem da Empresa Recrutadora e a mensagem Confirmando ou Reprovando a candidatura do usuário na vaga ofertada.
+ Na tela Resultado das Empresas, permitirá que o usuário receba o resultado da sua aprovação ou desclassificação com as empresas contratantes no qual terá a imagem da Empresa Recrutadora e a mensagem de status da condição da candidatura do usuário na vaga ofertada.
 
   <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/afbba22b-04eb-4d52-9fa9-2f9a0a15ba2e">
