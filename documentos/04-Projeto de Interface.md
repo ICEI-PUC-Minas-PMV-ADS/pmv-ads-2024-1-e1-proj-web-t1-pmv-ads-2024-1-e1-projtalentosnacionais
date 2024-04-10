@@ -51,7 +51,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 ### Tela Principal
  A tela Principal guiará ao usuário, após ter sua conta cadastrada aos links que direcionará ao visitante para outras páginas do site. 
 
- · Conforme a  Figura 7, os componentes são compostos por componentes que permitam colocar fotos de perfil, alterar nomes,  botões de interações que direcionarão  especificamente ao fluxo de usuário pretendido.
+ · Conforme a  Figura 7, sera possível editar fotos de perfil, alterar nomes, botões de interações que direcionarão  especificamente ao fluxo de usuário pretendido.
 
  <em>·Botão de Menu</em>: ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.
 
