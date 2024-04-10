@@ -79,7 +79,8 @@ A tela de cadastro do usuário solicitará as informações que são necessária
 ### Sobre Nós
 
 A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website foi criado e conhecer sobre a equipe que esta construindo o website. 
-Na figura 09 terá os componentes:
+
+  Na figura 09 terá os componentes:
 
   <em>·Botão de Menu:</em> ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.
 
