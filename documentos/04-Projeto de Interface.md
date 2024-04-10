@@ -6,8 +6,7 @@
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de navegação do usuário na aplicação. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.    (criar texto) 
 
 <figure>
-  <img src="img/prototipo.png">
-  <figcaption>Figura 4 -Demonstração do Fluxo do Usuário </figcaption>
+  <img src="img/prototipo.png"> <figcaption>Figura 4 -Demonstração do Fluxo do Usuário </figcaption>
 </figure>
 
 
@@ -24,8 +23,8 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 <em>•Usuários:</em>  possibilitará aos usuários fazer a escolha de entrar, seja Candidato ou Empresa e ao clicar serão direcionados ao fluxo da página web almejada;
 
 <figure>
-  <img src="img/home page.PNG"><figcaption> 
-    Figura 5- Home Page e direcionamento de outros setores do web site. </figcaption>
+  <img src="img/homepage.png">
+  <figcaption>Figura 5- Home Page e direcionamento de outros setores do web site. </figcaption>
 </figure>
 
   
@@ -43,8 +42,8 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  <em>·Recuperar Senha:</em> caso o usuário esqueça de seu e-mail e senha registrados  através dessa interação irá recuperar a senha.
  
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/e49902a1-3ee2-4e91-9880-718f3883d031">
-  <figcaption><p>Figura 6- Demonstração da Tela de Login. </p></figcaption>
+  <img src="img/login.png">
+  <figcaption> Figura 6- Demonstração da Tela de Login.</figcaption>
 </figure>
 
 
@@ -56,11 +55,10 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  <em>·Botão de Menu</em>: ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.
 
 
-<figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/52d52882-bcdb-46ae-82e5-7021fb918dc7"
-    <figcaption><p>Figura 7- Demonstração da Tela Principal.</p> </figcaption>
+<figure> 
+  <img src="img/principal.png">
+  <figcaption> Figura 7- Demonstração da Tela Principal.</figcaption>
 </figure>
-
 
 ### Tela de Cadastro
 
@@ -70,11 +68,10 @@ A tela de cadastro do usuário solicitará as informações que são necessária
  A tela poderá ser acessada, após os usuários registrarem na tela de Login. 
 
 
-<figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/f7d19e62-43f4-4ceb-9ea9-bf8df5b78785"
-    <figcaption><p>Figura 8- Demonstração da Tela de Cadastro.</p></figcaption>
+<figure> 
+  <img src="img/Criarconta.png">
+  <figcaption> Figura 8- Demonstração da Tela de Cadastro.</figcaption>
 </figure>
-
 
 ### Sobre Nós
 
@@ -86,11 +83,10 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
 
   <em>Rodapé:</em> informações da equipe desenvolveu o website e logo.
 
-<figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/4c2310a3-6741-4f16-98cb-a88b9bc10957"
-    <figcaption><p> Figura 9- Demonstração da Tela Sobre Nós.</p></figcaption>
+<figure> 
+  <img src="img/Sobrenos.png">
+  <figcaption> Figura 9- Demonstração da Tela Sobre Nós.</figcaption>
 </figure>
-
 
 ### Feedback do Usuário
  O feedback do usuário permitirá a equipe do projeto compreender sobre  o que ocorreu em sua interação do usuário, as dificuldades, analisar se o objetivo do produto criado foi alcançado e as experiências positivas do visitante. 
@@ -102,8 +98,9 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
 
  <em>·Botão de Menu:</em> ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.<figure>
  
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/acd63c34-f796-44e5-be91-d1863472c5ab"
-    <figcaption><p>Figura 10- Demonstração da Tela Feedback do Usuário.</p></figcaption>
+ <figure> 
+  <img src="img/Feedbackdousuario.png">
+   <figcaption> Figura 10- Demonstração Feeback do Usuário.</figcaption>
 </figure>
 
 ### Informações Profissionais
@@ -113,31 +110,30 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
 
 ·<em>Botão Salvar</em> : consistirá em um botão que permitirá ao usuário Salvar suas informações profissionais, portofólio após registrar todas suas informações;
 
-<figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/ff758858-7f31-4d95-bafc-509126c17e90">
-    <figcaption><p>Figura 11- Demonstração da Tela de Informações Profissionais.</p></figcaption>
+ <figure> 
+  <img src="img/Informacoesprofi.png">
+   <figcaption> Figura 11- Demonstração Informações Profissionais.</figcaption>
 </figure>
-
 
  ### Cadastro Redes Sociais 
   Permitirá ao usuário cadastrar suas redes sociais, profissionais ou pessoais, para que o recrutador tenha oportunidade de conhecer mais sobre sua personalidade.
   Conforme a figura 12, o usuário colocará o link de suas redes sociais na caixa formulário e posteriormente clicará em Salvar.
 
   <em>·Botão de Menu:</em> ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.  
-  <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/50a9b710-4f1f-4cca-a2ad-27129a140f81">
-    <figcaption><p>Figura 12- Demonstração da Tela de Cadastro de Redes Sociais dos usuários.</p></figcaption>
-</figure>
 
+ <figure> 
+  <img src="img/Cadastro.png">
+   <figcaption> Figura 12- Demonstração Cadastro Rede Sociais.</figcaption>
+</figure>
+  
   ### Resultado das Empresas
  Na tela Resultado das Empresas, permitirá que o usuário receba o resultado da sua aprovação ou desclassificação com as empresas contratantes no qual terá a imagem da Empresa Recrutadora e a mensagem de status da condição da candidatura do usuário na vaga ofertada.
 
-  <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/afbba22b-04eb-4d52-9fa9-2f9a0a15ba2e">
-    <figcaption><p>Figura 13- Demonstração da Tela de Resultado obtido pelas empresas recutadoras.</p></figcaption>
+  
+ <figure> 
+  <img src="img/Resultado.png">
+   <figcaption> Figura 13- Resultado das Empresas.</figcaption>
 </figure>
-
-
 
 
 
