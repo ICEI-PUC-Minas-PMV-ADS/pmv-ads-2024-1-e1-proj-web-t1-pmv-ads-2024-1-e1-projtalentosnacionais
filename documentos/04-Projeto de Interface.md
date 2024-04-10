@@ -94,7 +94,8 @@ Na figura 09 terá os componentes:
 ### Feedback do Usuário
  O feedback o usuário permitirá a equipe do projeto compreender sobre o que deve ser alterado, dificuldades ocorridas durante a interação do usuário no website, analisar se objetivo do produto criado foi alcançado, as experiências positivas do visitante. 
  Dessa forma, poderá  aprimorar o produto.
- Na figura 10 apresenta-se o componenete:
+   
+   Na figura 10 apresenta-se o componenete:
 
  <em>·Botão de Menu:</em> ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.<figure>
  
