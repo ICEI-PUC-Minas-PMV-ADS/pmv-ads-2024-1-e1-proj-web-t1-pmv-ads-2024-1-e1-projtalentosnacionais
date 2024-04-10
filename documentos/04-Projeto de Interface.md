@@ -107,7 +107,7 @@ Na figura 09 terá os componentes:
 
 · Será apresentado nas Informações Profissionais, conforme a a figura 11, caixas de formulários com o elemento <input> que permitirá o usuário colocar seus dados profissionais como por exemplo Profissão, Carreira Acadêmica, Pretensão Salarial.
 
-·<em>Botão Salvarr</em> : consistirá em um botão que permitirá ao usuário Salvar suas informações profissionais, portofólio após registrar todas suas informações;
+·<em>Botão Salvar</em> : consistirá em um botão que permitirá ao usuário Salvar suas informações profissionais, portofólio após registrar todas suas informações;
 
 <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/ff758858-7f31-4d95-bafc-509126c17e90">
@@ -116,16 +116,16 @@ Na figura 09 terá os componentes:
 
 
  ### Cadastro Redes Sociais 
-  Permitirá ao usuário cadastrar suas redes sociais profissionais ou pessoais para que o recrutador tenha oportunidade de conhecer mais sobre sua personalidade.
-    Conforme a Figura 12, 
+  Permitirá ao usuário cadastrar suas redes sociais profissionais ou pessoais para que o recrutador tenha oportunidade de conhecer mais sobre sua personalidade conforme a figura 12, o usuário colocará o link de suas redes sociais na caixa formulário e posteriormente clicará em Salvar.
+
+  <em>·Botão de Menu:</em> ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.  
   <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/50a9b710-4f1f-4cca-a2ad-27129a140f81">
     <figcaption><p>Figura 12- Demonstração da Tela de Cadastro de Redes Sociais dos usuários.</p></figcaption>
 </figure>
 
-
   ### Resultado das Empresas
- Na tela Resultado das Empresas, permitirá que o usuário receba o resultado de sua aprovação ou desclassificação das empresas contratantes.
+ Na tela Resultado das Empresas, permitirá que o usuário receba o resultado de sua aprovação ou desclassificação das empresas contratantes no qual terá a imagem da Empresa Recrutadora e a mensagem Confirmando ou Reprovando a candidatura do usuário na vaga ofertada.
 
   <figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/afbba22b-04eb-4d52-9fa9-2f9a0a15ba2e">
