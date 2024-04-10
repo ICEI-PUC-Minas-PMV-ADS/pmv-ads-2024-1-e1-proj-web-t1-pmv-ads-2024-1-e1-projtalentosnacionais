@@ -57,7 +57,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/52d52882-bcdb-46ae-82e5-7021fb918dc7">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/52d52882-bcdb-46ae-82e5-7021fb918dc7"
     <figcaption><p>Figura 7- Demonstração da Tela Principal.</p> </figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ A tela de cadastro do usuário solicitará as informações que são necessária
 
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/f7d19e62-43f4-4ceb-9ea9-bf8df5b78785">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/f7d19e62-43f4-4ceb-9ea9-bf8df5b78785"
     <figcaption><p>Figura 8- Demonstração da Tela de Cadastro.</p></figcaption>
 </figure>
 
@@ -87,7 +87,7 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
   <em>Rodapé:</em> informações da equipe desenvolveu o website e logo.
 
 <figure>
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/4c2310a3-6741-4f16-98cb-a88b9bc10957">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/4c2310a3-6741-4f16-98cb-a88b9bc10957"
     <figcaption><p> Figura 9- Demonstração da Tela Sobre Nós.</p></figcaption>
 </figure>
 
@@ -102,7 +102,7 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
 
  <em>·Botão de Menu:</em> ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.<figure>
  
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/acd63c34-f796-44e5-be91-d1863472c5ab">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/134242381/acd63c34-f796-44e5-be91-d1863472c5ab"
     <figcaption><p>Figura 10- Demonstração da Tela Feedback do Usuário.</p></figcaption>
 </figure>
 
