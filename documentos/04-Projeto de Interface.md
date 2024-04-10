@@ -34,7 +34,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
  A tela de Login permitirá que o usuário acesse ao Sistema, faça o seu cadastrado com as informações solicitadas, as credenciais que foram registradas auxiliará na identificação do usuário no Sistema.
  Conforme a Figura 6, os componentes são compostos por:
 
- <em>· Login:</em> será uma caixa de formulário com o elemento <input> que permitirá o usuário colocar seus dados como E-mail e Senha;
+ <em>· Login:</em> será uma caixa de formulário com o elemento input que permitirá o usuário colocar seus dados como E-mail e Senha;
 
 <em>·Entrar:</em>  após o usuário registrar seu email e senha, o botão Entrar permitirá que o usuário, faça o "click" e seja direcionado as outras interações do web site; 
  
