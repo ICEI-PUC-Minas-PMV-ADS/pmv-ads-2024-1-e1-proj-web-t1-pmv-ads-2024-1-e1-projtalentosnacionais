@@ -15,11 +15,17 @@
 <td><b>Necessidades</b></td>
 <td>
 1 - Divulgar seu portfólio de trabalho, destacando suas habilidades e competências. 
+  
 2 - Site que ofereça oportunidades de trabalho baseado em sua experiências.
+
 3 - Políticas de segurança de dados e proteção contra hackers.
+
 4- Campo interativo em que é possível receber feedback de empresas recrutadoras.
+
 5 - Link para redes sociais.
+
 6 - Receber referências, carta de recomendação e indicações de outros usuários/profissionais.
+
 7 - Perfil da empresa contratante e das condições da vaga. 
   
 </td>
