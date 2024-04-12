@@ -55,15 +55,15 @@ Gráfico 02: Principais sites usados pelos entrevistados na busca de vagas.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/3797ba41-6f8a-4dc0-9679-623927b12b63)
 
-Fizemos também uma pesquisa com as empresas para saber se conseguiram preencher vagas, usando apenas os sites convencionais e como podemos notar no gráfico 3, a maior parte das empresas não conseguiu.
+Realizada também uma entrevista com 11 empresas para saber se conseguiriam preencher vagas, usando apenas os sites convencionais pode notar-se no gráfico 3 que a maior parte das empresas não obtiveram sucesso no preenchimento de vagas.
 
 Gráfico 03: Vagas preenchidas pelos sites convencionais
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/daf6dacb-b49c-4148-9360-64de1da8851c)
 
-Os usuários valorizam muito a parte visual do site e a possibilidade de personalização de sua página, de modo a criar condições de demonstrar suas habilidades e competências por meio de imagens, vídeos e depoimentos. Eles buscam a divulgação de seus trabalhos de modo a conseguirem o contato com empresas e recrutadores, valorizando a facilidade de uso, a estética e a capacidade de apresentar o portfólio profissionalmente são prioritárias.
+Os entrevistados valorizam muito a parte visual do site e a possibilidade de personalização de sua página, de modo a criar condições de demonstrar suas habilidades e competências por meio de imagens, vídeos e depoimentos. Eles buscam a divulgação de seus trabalhos de modo a conseguirem o contato com empresas e recrutadores, valorizando a facilidade de uso, a estética e a capacidade de apresentar o portfólio profissionalmente são prioritárias.
 
-Os usuários também consideram essencial que o site respeite os ditames da lei geral de proteção de dados e tenha mecanismos de segurança e backup, protegendo o sistema contra possíveis ataques cibernéticos. Por fim, eles valorizam a integração com as variadas redes sociais e divulgação de meios de contato, para realização de networking e troca de mensagens.
+Os entrevistados também consideram essencial que o site respeite os ditames da lei geral de proteção de dados e tenha mecanismos de segurança e backup, protegendo o sistema contra possíveis ataques cibernéticos. Por fim, eles valorizam a integração com as variadas redes sociais e divulgação de meios de contato, para realização de networking e troca de mensagens.
 
 Assim, surge a oportunidade de desenvolvimento de uma solução tecnológica, que seja mais personalizável e focada na promoção de portfólio de trabalho de forma interativa e responsiva. 
 
