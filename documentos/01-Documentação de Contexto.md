@@ -39,7 +39,7 @@ Desta forma, um site dedicado à apresentação dinâmica de portfólios de prof
 
 Para a descrição do público-alvo houve uma entrevista com 11 pessoas utilizando-se de um questionário contendo perguntas relacionadas aos interesses e expectativas dos profissionais que buscam oportunidades de emprego e empresas que buscam a contratação de profissionais no mercado para preenchimento de vagas. As perguntas tiveram como objetivo entender o que os respondentes pensam sobre um site para divulgação de portfólio. A partir das respostas obtidas, pode-se descrever o perfil do público-alvo do seguinte modo.
 
-Quanto às características dos profissionais que irão exibir seu portfólio, estes serão estudantes e profissionais que buscam empregos na iniciativa privada, com CLT ou proposta de trabalho autônomo. Terão como perfil variadas profissões como, por exemplo, advogados, dentistas, assistentes socioambientais, administradores e profissionais que tencionam voltar ao mercado de trabalho após pausa na carreira.
+Quanto às características dos profissionais que irão exibir seu portfólio, estes serão estudantes e profissionais que buscam empregos na iniciativa privada, com CLT ou proposta de trabalho autônomo. Terão como perfil variadas profissões como, por exemplo, advogados,dentistas, assistentes socioambientais, administradores e profissionais que tencionam voltar ao mercado de trabalho após pausa na carreira.
 
 No gráfico é possível  visualizar  a amplitude e a distribuição das profissões representadas nas perguntas feitas pelos entrevistadores, destacando a diversidade e o alcance dos participantes.
 
