@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td width="150px"><b> Descrição.</b></td>
-<td width="600px">Empresa que está em busca de profissionais de tecnologia para contratação.</td>
+<td width="600px">Empresa que está em busca de profissionais para contratação.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
