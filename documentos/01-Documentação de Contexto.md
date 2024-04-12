@@ -37,7 +37,7 @@ Desta forma, um site dedicado à apresentação dinâmica de portfólios de prof
 
 ## Público-Alvo
 
-Para a descrição do público-alvo a equipe produziu um questionário contendo perguntas relacionadas aos interesses e expectativas dos profissionais que buscam oportunidades de emprego e empresas que buscam a contratação de profissionais no mercado para preenchimento de vagas. As perguntas tiveram como objetivo entender o que os respondentes pensam sobre um site para divulgação de portfólio. A partir das respostas obtidas, pode-se descrever o perfil do público-alvo do seguinte modo.
+Para a descrição do público-alvo houve uma entrevista com 11 pessoas utilizando-se de um questionário contendo perguntas relacionadas aos interesses e expectativas dos profissionais que buscam oportunidades de emprego e empresas que buscam a contratação de profissionais no mercado para preenchimento de vagas. As perguntas tiveram como objetivo entender o que os respondentes pensam sobre um site para divulgação de portfólio. A partir das respostas obtidas, pode-se descrever o perfil do público-alvo do seguinte modo.
 
 Quanto às características dos profissionais que irão exibir seu portfólio, estes serão estudantes e profissionais que buscam empregos na iniciativa privada, com CLT ou proposta de trabalho autônomo. Terão como perfil variadas profissões como, por exemplo, advogados, dentistas, assistentes socioambientais, administradores e profissionais que tencionam voltar ao mercado de trabalho após pausa na carreira.
 
@@ -49,7 +49,7 @@ Gráfico 01: Diversidade dos participantes.
 
 Os profissionais candidatos já utilizam sites especializados em vagas de emprego e redes sociais para divulgação de seus trabalhos e experiência e construção de networking, em especial, Instagram e LinkedIn. Porém, sentem que estas redes não atendem às suas expectativas, sendo elas generalistas e em muitos casos, com excesso de feeds ligadas a publicidades, política e divulgação de histórias que não geram resultados em termos de oportunidade de trabalho. 
 
-Da parte das empresas contratantes e recrutadores, essas sentem que a simples divulgação de currículo não é o suficiente para o conhecimento de todas as habilidades e competências do candidato. No gráfico 2 podemos observar os principais sites que são usados pela maior parte dos entrevistados para busca de vagas.
+Da parte das empresas contratantes e recrutadores, essas sentem que a simples divulgação de currículo não é o suficiente para o conhecimento de todas as habilidades e competências do candidato. No gráfico 2 pode-se observar os principais sites que são usados pela maior parte dos entrevistados para busca de vagas.
 
 Gráfico 02: Principais sites usados pelos entrevistados na busca de vagas.
 
