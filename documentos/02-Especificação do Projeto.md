@@ -76,7 +76,7 @@ Com base nas Histórias de Usuários, foram elaborados requisitos de solução:
 |-------|---------------------------------|----        |
 | RF-01  |  A aplicação deve permitir ao usuário criar uma conta com login e senha.| Alta| 
 | RF-02  |  A aplicação deve permitir ao usuário inserir vídeos de 2 minutos e arquivos em PDF.| Alta|
-| RF-03  | A A aplicação deve permitir a empresa cadastrar e fazer login como empresa. | Alta|
+| RF-03  | A  aplicação deve permitir a empresa cadastrar e fazer login como empresa. | Alta|
 | RF-04  | A aplicação deve permitir ao profissional cadastrar seu currículo.| Alta|
 | RF-05  | A aplicação deve permitir às empresas entrar em contato com o usuário, por e-mail, permitindo a comunicação entre os dois sobre vagas, assim como dar feedback sobre o perfil do profissional.| Alta|
 | RF-06  | A aplicação deve possuir links para redes sociais do profissional cadastrado. |Baixa |
