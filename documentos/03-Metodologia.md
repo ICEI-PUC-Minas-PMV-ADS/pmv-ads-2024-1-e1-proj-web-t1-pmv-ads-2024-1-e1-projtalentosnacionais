@@ -40,17 +40,19 @@ Para execução das atividades do projeto, a equipe se organizou da seguinte for
 ____________
 
 ### Processos:
-Com a finalidade de subvidir as tarefas a serem executadas a cada membro do projeto, a equipe está utilizando o repositório  GitHub, utilizando as práticas do quadro Scrum que divide-se em:
+Com a finalidade de subvidir as tarefas a serem executadas a cada membro do projeto, a equipe está utilizando o repositório  GitHub, utilizando as práticas do quadro Scrum, conforme demonstrado a seguir:
 
-·Product Backlog (Backlog do Produto): Lista organizada com as tarefas, as atribuições identificadas no transcorrer do projeto são acrescentadas na lista.
 
-·To Do: representa as tarefas do Sprint que ainda não estão sendo feitas. 
 
-·In progress:  lista da Sprint que estão sendo feitas neste momento .
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/0914650c-b52b-49c1-abf7-4fd68cdb6fec)
 
-·Done: são  as tarefas finalizadas e que foram testadas e estão concluídas para serem apresentados aos usuários.
 
-(// lembrar de colocar print do quadro scrum quando finalizar ) 
+
+
+
+
+
+
 
 ### Ferramentas
 As ferramentas utilizadas são os softwares:
