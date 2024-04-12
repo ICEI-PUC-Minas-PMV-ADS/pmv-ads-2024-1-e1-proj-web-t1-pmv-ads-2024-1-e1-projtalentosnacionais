@@ -14,7 +14,6 @@ de modo que o profissional consiga divulgar suas habilidades e competências par
 * Gabriel de Oliveira Santos
 * Gabryella Gardiano Silva
 * Henrique Rodrigues Lelis
-* Juliana Monik Moraes Silva
 * Larissa Carvalho
 
 
