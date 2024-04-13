@@ -19,23 +19,19 @@ Para execução das atividades do projeto, a equipe se organizou da seguinte for
 
 **- Scrum Master:** Larissa Carvalho
 
-**- Product Owner:** Juliana Monik Moraes Silva
+**- Product Owner:** Gabriel de Oliveira Santos 
 
 **- Equipe de Desenvolvimento:**
 - Gabriel de Oliveira Santos
 - Gabryella Gardiano Silva
 - Henrique Rodrigues Lelis
-- Juliana Monik Moraes Silva
 - Larissa Carvalho
-- Matheus Campos Rangel
  
 **- Equipe de Design:**
 - Gabriel de Oliveira Santos
 - Gabryella Gardiano Silva
 - Henrique Rodrigues Lelis
-- Juliana Monik Moraes Silva
 - Larissa Carvalho
-- Matheus Campos Rangel
 
 ____________
 
