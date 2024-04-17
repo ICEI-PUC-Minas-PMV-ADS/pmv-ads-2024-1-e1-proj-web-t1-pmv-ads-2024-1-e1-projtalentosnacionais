@@ -73,7 +73,7 @@ Com base nas Histórias de Usuários, foram elaborados requisitos de solução:
 ### Requisitos Funcionais
 
 
-| ID    | Descrição                       | Prioridade |
+|  ID     | Descrição                       | Prioridade |
 |-------|---------------------------------|----        |
 | RF-01  |  A aplicação deve permitir ao usuário criar uma conta com login e senha.| Alta| 
 | RF-02  |  A aplicação deve permitir ao usuário buscar por vagas.| Alta|
