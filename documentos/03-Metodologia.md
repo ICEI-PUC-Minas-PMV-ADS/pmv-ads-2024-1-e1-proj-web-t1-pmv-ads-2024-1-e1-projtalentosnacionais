@@ -64,7 +64,7 @@ As ferramentas utilizadas são os softwares:
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Projeto de Interface         | Canva                            | https://www.canva.com/design/DAGAopLhHmI/c4x8-grdaRQvIHPb6FJclg/edit
 | Documentos do projeto               | GitHub                             |                             https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/tree/main/documentos              | Figma                              | http://....                            |
-|Projeto de interface e wireframes    | Figma              |https://www.figma.com/file/HhzEJcOhSGQsIidrATUgir/Untitled?type=design&node-id=10-169&mode=design&t=aJEhCnseXasVvZLP-0| 
+|Projeto de interface e wireframes    | Figma              |https://www.figma.com/file/8IBf9diRnuIqzSJ3beHiit/Untitled?type=design&node-id=0%3A1&mode=design&t=Tl9oCYfiDTxVV0TE-1
 
                
 
