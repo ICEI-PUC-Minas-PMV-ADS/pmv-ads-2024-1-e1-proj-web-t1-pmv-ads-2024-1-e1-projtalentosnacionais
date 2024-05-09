@@ -7,11 +7,11 @@
     <link rel="stylesheet" href="paginacadastro.css">
 </head>
 <body>
-    <header>
-        <a href="index.html"><img src="./img/file.enc" alt="Logo" /></a>
+    <header> 
+        <a href="index.html"><img src="img logo PNG 2.png" alt="Logo" /></a>     
     </header>
     <div>
-        <h2>Já possui conta?</h2>
+        <h2>Já Possui Conta?</h2>
         <a href="index.html">Entre Aqui</a>
     </div>
     <form>
@@ -39,14 +39,14 @@
                     <label for="ConfirmarSenha"class="visually-hidden">Confirmar Senha</label>
                     <input type="password" name="ConfirmarSenha" id="ConfirmarSenha" placeholder=" Confirmar Senha">
                 </div>
+                <div>
                     <button type="submit">REGISTRAR</button>
                 </div>
         </fieldset>
-    </form>
-    <h1>§Talentos Nacionais§</h1>
+    </form>   
+  <h1> Talentos Nacionais</h1>
     <footer>
-       <p> Grupo G4 - Gabriel - Gabryella - Henrique - Larissa </p>  
-       <p>Análise e Desenvolvimento de Sistemas</p>
-       <p>  2024 - Puc Minas </p>
+       <p> Grupo G4 - Análise e Desenvolvimento de Sistemas - Puc Minas - 2024 - </p>  
     </footer>
+
 
