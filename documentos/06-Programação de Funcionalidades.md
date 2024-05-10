@@ -4,7 +4,6 @@ O documento de programação de funcionalidades descreve as características pri
 Ela apresenta uma imagem representativa da página, os requisitos atendidos, os artefatos relacionados à funcionalidade e as estruturas de dados utilizadas.
 
 ### TELA HOME
-
 ## Responsável: Gabryella
 
 O acesso a tela Home será feito através da URL.
@@ -12,7 +11,8 @@ Trata-se da tela inicial do site, permitindo ao usuário o acesso à aplicação
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de Home:
+
+## Exemplo da tela de Home
 
 xxx
 
@@ -41,7 +41,7 @@ O usuário também poderá ser redirecionado a tela login a partir da tela cadas
 Trata-se da tela acesso autenticado do usuário a aplicação, permitindo ao usuário o acesso à aplicação.
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de Home:
+## Exemplo da tela de Home
 
 xxx
 
@@ -69,7 +69,7 @@ O acesso a tela de cadastros será feito através da button “Cadastre-se” na
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro:
+## Exemplo da tela de cadastro
 
 ![Captura de tela_10-5-2024_10739_127 0 0 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/92957ed9-4198-4f93-a882-9757add05a60)
 
@@ -101,7 +101,7 @@ O acesso a tela principal será feito através da button “Login” na página 
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-Exemplo da tela de cadastro:
+## Exemplo da tela de cadastro
 
 ![Captura de tela_principal ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/40b529ef-e2d5-45eb-8645-ad651c1ae091)
 
@@ -134,7 +134,7 @@ O acesso a tela Feedback será feito através da button “Feedback” na págin
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro:
+## Exemplo da tela de cadastro
 
 xxx
 
@@ -164,7 +164,7 @@ O acesso a tela sobre nós será feito através da button “sobre nós” na p�
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro:
+## Exemplo da tela de cadastro
 
 xxxxx
 
@@ -193,7 +193,7 @@ O acesso a tela cadastrar será feito através da button “cadastrar curriculo�
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro:
+## Exemplo da tela de cadastro
 
 xxxxx
 
@@ -223,7 +223,7 @@ O acesso a tela visualizar currículo será feito através da button “visualiz
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro:
+## Exemplo da tela de cadastro
 
 xxxxx
 
@@ -253,7 +253,7 @@ O acesso a tela cadastrar redes sociais será feito através da button “ cadas
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro:
+## Exemplo da tela de cadastro
 
 xxxxx
 
