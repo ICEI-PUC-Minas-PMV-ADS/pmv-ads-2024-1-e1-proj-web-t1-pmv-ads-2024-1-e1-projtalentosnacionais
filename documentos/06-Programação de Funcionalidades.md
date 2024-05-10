@@ -45,19 +45,19 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 xxx
 
-### Requisito atendido
+## Requisito atendido
 
 RNF-03: A aplicação deve obedecer à LGPD, possuir mecanismos de proteção de dados e segurança cibernética.
 RF-1: A aplicação deve permitir ao usuário criar uma conta com login e senha.
 RF-4: A aplicação deve permitir que uma empresa cadastre-se e faça login como empresa.
 
-### Artefatos da funcionalidade
+## Artefatos da funcionalidade
 
 1- Páginacadastro.css
 
 2- Páginacadastro.html
 
-### Estrutura de Dados
+## Estrutura de Dados
 
 Não existe estrutura de dados. 
 
@@ -74,12 +74,12 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 ![Captura de tela_10-5-2024_10739_127 0 0 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/92957ed9-4198-4f93-a882-9757add05a60)
 
 
-### Requisito atendido
+## Requisito atendido
 
 RF-1: A aplicação deve permitir ao usuário criar uma conta com login e senha.
 RF-4: A aplicação deve permitir que uma empresa cadastre-se e faça login como empresa.
 
-### Artefatos da funcionalidade
+## Artefatos da funcionalidade
 
 1- Páginacadastro.css
 
@@ -89,7 +89,7 @@ RF-4: A aplicação deve permitir que uma empresa cadastre-se e faça login como
 
 Não existe estrutura de dados. 
 
-### Instruções de acesso
+## Instruções de acesso
 
 Será desenvolvida na proxima etapa.
 
@@ -105,7 +105,7 @@ Exemplo da tela de cadastro:
 
 ![Captura de tela_principal ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/40b529ef-e2d5-45eb-8645-ad651c1ae091)
 
-### Requisito atendido
+## Requisito atendido
 
 RF-2: A aplicação deve permitir ao usuário buscar por vagas.
 RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
@@ -113,7 +113,7 @@ RF-7: A aplicação deve possuir links para redes sociais do profissional cadast
 RF-9: A aplicação deve permitir que as empresas ofereçam vagas para os profissionais.
 RF-10: A aplicação deve possuir um sistema de busca/pesquisa, permitindo às empresas encontrar profissionais por meio de filtros específicos.
 
-### Artefatos da funcionalidade
+## Artefatos da funcionalidade
 
 1- Páginacadastro.css
 2- Páginacadastro.html
@@ -185,7 +185,7 @@ Não existe estrutura de dados.
 
 Será desenvolvida na proxima etapa.
 
-## TELA CADASTRAR CURRÍCULO  
+### TELA CADASTRAR CURRÍCULO  
 
 ## Responsável: Larissa / Gabryella 
 
