@@ -5,7 +5,7 @@ Ela apresenta uma imagem representativa da página, os requisitos atendidos, os 
 
 ### TELA HOME
 
-## Responsável:Gabryella
+## Responsável: Gabryella
 
 O acesso a tela Home será feito através da URL.
 Trata-se da tela inicial do site, permitindo ao usuário o acesso à aplicação.
@@ -94,6 +94,7 @@ Não existe estrutura de dados.
 Será desenvolvida na proxima etapa.
 
 ### TELA PRINCIPAL 
+
 ## Responsável: Henrique Rodrigues Lelis
 
 O acesso a tela principal será feito através da button “Login” na página Home.
@@ -117,15 +118,16 @@ RF-10: A aplicação deve possuir um sistema de busca/pesquisa, permitindo às e
 1- Páginacadastro.css
 2- Páginacadastro.html
 
-### Estrutura de Dados
+## Estrutura de Dados
 
 Não existe estrutura de dados. 
 
-#### Instruções de acesso
+## Instruções de acesso
 
 Será desenvolvida na proxima etapa.
 
-### Tela de Feedback
+### TELA FEEDBACK 
+
 ## Responsável: Gabriel 
 
 O acesso a tela Feedback será feito através da button “Feedback” na página principal.
@@ -136,7 +138,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 xxx
 
-### Requisito atendido
+## Requisito atendido
 
 RF-6: A aplicação deve permitir que as empresas entrem em contato com o usuário, por e-mail, possibilitando a comunicação entre os dois sobre vagas, assim como dar feedback sobre o perfil do profissional.
 RF8-: O perfil do profissional deve possuir um sistema de ranking que será medido pela qualidade das frequências e boas referências.
@@ -183,7 +185,7 @@ Não existe estrutura de dados.
 
 Será desenvolvida na proxima etapa.
 
-## Tela Cadastrar Currículo 
+## TELA CADASTRAR CURRÍCULO  
 
 ## Responsável: Larissa / Gabryella 
 
