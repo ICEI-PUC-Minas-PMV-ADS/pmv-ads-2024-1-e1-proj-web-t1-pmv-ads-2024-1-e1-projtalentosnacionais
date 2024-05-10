@@ -1,8 +1,7 @@
 # Programação de Funcionalidades
 
-Pré-requisitos: Especificação do Projeto, Metodologia, Projeto de Interface, Arquitetura da Solução
-
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
+O documento de programação de funcionalidades descreve as características principais de cada página do sistema.
+Ela apresenta uma imagem representativa da página, os requisitos atendidos, os artefatos relacionados à funcionalidade e as estruturas de dados utilizadas.
 
 ### Tela Home
 Responsável:Gabryella
