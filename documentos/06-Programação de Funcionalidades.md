@@ -116,6 +116,7 @@ RF-10: A aplicação deve possuir um sistema de busca/pesquisa, permitindo às e
 ## Artefatos da funcionalidade
 
 1- Páginacadastro.css
+
 2- Páginacadastro.html
 
 ## Estrutura de Dados
@@ -146,6 +147,7 @@ RF8-: O perfil do profissional deve possuir um sistema de ranking que será medi
 ## Artefatos da funcionalidade
 
 1- Páginacadastro.css
+
 2- Páginacadastro.html
 
 ## Estrutura de Dados
@@ -175,6 +177,7 @@ xxxx
 ## Artefatos da funcionalidade
 
 1- Páginacadastro.css
+
 2- Páginacadastro.html
 
 ## Estrutura de Dados
@@ -205,6 +208,7 @@ RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
 ## Artefatos da funcionalidade
 
 1- Páginacadastro.css
+
 2- Páginacadastro.html
 
 ## Estrutura de Dados
@@ -235,6 +239,7 @@ RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
 ## Artefatos da funcionalidade
 
 1- Páginacadastro.css
+
 2- Páginacadastro.html
 
 ## Estrutura de Dados
@@ -264,6 +269,7 @@ RF-7: A aplicação deve possuir links para redes sociais do profissional cadast
 ## Artefatos da funcionalidade
 
 1- Páginacadastro.css
+
 2- Páginacadastro.html
 
 ## Estrutura de Dados
