@@ -22,22 +22,23 @@ RF-1: A aplicação deve permitir ao usuário criar uma conta com login e senha.
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+1- Páginacadastro.css
+2- Páginacadastro.html
 
 
 #### Estrutura de Dados
 
-[Caso exista estrutura de dados, adicione aqui]
+Não existe estrutura de dados. 
 
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Será desenvolvida na proxima etapa.
 
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+Henrique Rodrigues Lelis
 
 
 
