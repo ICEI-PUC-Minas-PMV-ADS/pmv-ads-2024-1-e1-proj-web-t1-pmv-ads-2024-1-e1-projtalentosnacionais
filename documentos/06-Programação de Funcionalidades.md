@@ -101,7 +101,7 @@ O acesso a tela principal será feito através da button “Login” na página 
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro
+## Exemplo da tela Principal
 
 ![Captura de tela_principal ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/40b529ef-e2d5-45eb-8645-ad651c1ae091)
 
@@ -134,7 +134,7 @@ O acesso a tela Feedback será feito através da button “Feedback” na págin
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro
+## Exemplo da tela Feedback
 
 xxx
 
@@ -164,7 +164,7 @@ O acesso a tela sobre nós será feito através da button “sobre nós” na p�
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro
+## Exemplo da tela Sobre nós
 
 xxxxx
 
@@ -193,7 +193,7 @@ O acesso a tela cadastrar será feito através da button “cadastrar curriculo�
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro
+## Exemplo da tela de cadastrar currículo
 
 xxxxx
 
@@ -223,7 +223,7 @@ O acesso a tela visualizar currículo será feito através da button “visualiz
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro
+## Exemplo da tela visualizar currículo
 
 xxxxx
 
@@ -253,7 +253,7 @@ O acesso a tela cadastrar redes sociais será feito através da button “ cadas
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de cadastro
+## Exemplo da tela cadastrar redes sociais
 
 xxxxx
 
