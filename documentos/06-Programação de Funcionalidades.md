@@ -16,20 +16,17 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 xxx
 
-
 #### Requisito atendido
 
 RNF-01	- O site deve ser compatível com os principais navegadores de internet: Chrome, Firefox, Safari, Edge.
 RNF-02	- A aplicação deve permitir a visualização em diversos tipos de dispositivos.
 RNF-03  - A aplicação deve obedecer à LGPD, possuir mecanismos de proteção de dados e segurança cibernética.
 
-
 #### Artefatos da funcionalidade
 
 1- Páginacadastro.css
 
 2- Páginacadastro.html
-
 
 #### Estrutura de Dados
 
@@ -47,13 +44,11 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 xxx
 
-
 #### Requisito atendido
 
 RNF-03: A aplicação deve obedecer à LGPD, possuir mecanismos de proteção de dados e segurança cibernética.
 RF-1: A aplicação deve permitir ao usuário criar uma conta com login e senha.
 RF-4: A aplicação deve permitir que uma empresa cadastre-se e faça login como empresa.
-
 
 #### Artefatos da funcionalidade
 
@@ -61,11 +56,9 @@ RF-4: A aplicação deve permitir que uma empresa cadastre-se e faça login como
 
 2- Páginacadastro.html
 
-
 #### Estrutura de Dados
 
 Não existe estrutura de dados. 
-
 
 ### Tela de Cadastro
 Responsável: Henrique Rodrigues Lelis
@@ -73,7 +66,6 @@ Responsável: Henrique Rodrigues Lelis
 O acesso a tela de cadastros será feito através da button “Cadastre-se” na página Home.
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
-
 
 ### Exemplo da tela de cadastro:
 
@@ -85,23 +77,19 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 RF-1: A aplicação deve permitir ao usuário criar uma conta com login e senha.
 RF-4: A aplicação deve permitir que uma empresa cadastre-se e faça login como empresa.
 
-
 #### Artefatos da funcionalidade
 
 1- Páginacadastro.css
 
 2- Páginacadastro.html
 
-
 #### Estrutura de Dados
 
 Não existe estrutura de dados. 
 
-
 #### Instruções de acesso
 
 Será desenvolvida na proxima etapa.
-
 
 ### Tela de Principal
 Responsável: Henrique Rodrigues Lelis
@@ -134,12 +122,9 @@ RF-10: A aplicação deve possuir um sistema de busca/pesquisa, permitindo às e
 
 Não existe estrutura de dados. 
 
-
 #### Instruções de acesso
 
 Será desenvolvida na proxima etapa.
-
-
 
 ### Tela de Feedback
 Responsável: Gabriel / Henrique Rodrigues Lelis
@@ -148,32 +133,27 @@ O acesso a tela Feedback será feito através da button “Feedback” na págin
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-Exemplo da tela de cadastro:
+### Exemplo da tela de cadastro:
 
 xxx
-
 
 #### Requisito atendido
 
 RF-6: A aplicação deve permitir que as empresas entrem em contato com o usuário, por e-mail, possibilitando a comunicação entre os dois sobre vagas, assim como dar feedback sobre o perfil do profissional.
 RF8-: O perfil do profissional deve possuir um sistema de ranking que será medido pela qualidade das frequências e boas referências.
 
-
 #### Artefatos da funcionalidade
 
 1- Páginacadastro.css
 2- Páginacadastro.html
 
-
 #### Estrutura de Dados
 
 Não existe estrutura de dados. 
 
-
 #### Instruções de acesso
 
 Será desenvolvida na proxima etapa.
-
 
 ### Tela Sobre nós
 Responsável:Larissa
@@ -186,22 +166,18 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 xxxxx
 
-
 #### Requisito atendido
 
 xxxx
-
 
 #### Artefatos da funcionalidade
 
 1- Páginacadastro.css
 2- Páginacadastro.html
 
-
 #### Estrutura de Dados
 
 Não existe estrutura de dados. 
-
 
 #### Instruções de acesso
 
@@ -218,7 +194,6 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 xxxxx
 
-
 #### Requisito atendido
 
 RF-3: A aplicação deve permitir ao usuário inserir vídeos de 2 minutos e arquivos em PDF.
@@ -229,16 +204,13 @@ RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
 1- Páginacadastro.css
 2- Páginacadastro.html
 
-
 #### Estrutura de Dados
 
 Não existe estrutura de dados. 
 
-
 #### Instruções de acesso
 
 Será desenvolvida na proxima etapa.
-
 
 ### Tela visualizar Currículo 
 Responsável:Larissa / Gabryella 
@@ -251,7 +223,6 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 xxxxx
 
-
 #### Requisito atendido
 
 RF-3: A aplicação deve permitir ao usuário inserir vídeos de 2 minutos e arquivos em PDF.
@@ -262,16 +233,13 @@ RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
 1- Páginacadastro.css
 2- Páginacadastro.html
 
-
 #### Estrutura de Dados
 
 Não existe estrutura de dados. 
 
-
 #### Instruções de acesso
 
 Será desenvolvida na proxima etapa.
-
 
 ### Tela Cadastrar Redes Sociais
 Responsável:Gabryella 
@@ -283,7 +251,6 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 ### Exemplo da tela de cadastro:
 
 xxxxx
-
 
 #### Requisito atendido
 
@@ -303,13 +270,3 @@ Não existe estrutura de dados.
 #### Instruções de acesso
 
 Será desenvolvida na proxima etapa.
-
-
-
-
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
-
