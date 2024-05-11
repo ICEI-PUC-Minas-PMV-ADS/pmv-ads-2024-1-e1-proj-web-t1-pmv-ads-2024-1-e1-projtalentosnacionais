@@ -42,9 +42,9 @@ O usuário também poderá ser redirecionado a tela login a partir da tela cadas
 Trata-se da tela acesso autenticado do usuário a aplicação, permitindo ao usuário o acesso à aplicação.
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela de Home
+## Exemplo da tela de Login
 
-xxx![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164515550/82da1f3c-5130-4bbd-a2e3-19c9b8d87e8c)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164515550/82da1f3c-5130-4bbd-a2e3-19c9b8d87e8c)
 
 
 
@@ -132,7 +132,7 @@ Será desenvolvida na proxima etapa.
 
 ### TELA FEEDBACK 
 
-## Responsável: Gabriel 
+## Responsável: Gabriel de Oliveira Santos
 
 O acesso a tela Feedback será feito através da button “Feedback” na página principal.
 
@@ -140,7 +140,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela Feedback
 
-xxx![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164515550/b790effa-326d-49c9-9a45-d2e3ee0b7bb9)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164515550/b790effa-326d-49c9-9a45-d2e3ee0b7bb9)
 
 
 ## Requisito atendido
