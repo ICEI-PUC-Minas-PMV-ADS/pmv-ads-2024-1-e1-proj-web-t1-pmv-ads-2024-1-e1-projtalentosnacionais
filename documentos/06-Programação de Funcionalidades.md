@@ -44,7 +44,8 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela de Home
 
-xxx![Captura de tela 2024-05-09 215454](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164515550/e0bc1a58-db30-4278-a091-c278a9c14729)
+xxx![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164515550/82da1f3c-5130-4bbd-a2e3-19c9b8d87e8c)
+
 
 
 ## Requisito atendido
