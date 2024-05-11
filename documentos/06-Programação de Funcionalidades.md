@@ -142,6 +142,7 @@ xxx
 ## Requisito atendido
 
 RF-6: A aplicação deve permitir que as empresas entrem em contato com o usuário, por e-mail, possibilitando a comunicação entre os dois sobre vagas, assim como dar feedback sobre o perfil do profissional.
+
 RF8-: O perfil do profissional deve possuir um sistema de ranking que será medido pela qualidade das frequências e boas referências.
 
 ## Artefatos da funcionalidade
@@ -234,6 +235,7 @@ xxxxx
 ## Requisito atendido
 
 RF-3: A aplicação deve permitir ao usuário inserir vídeos de 2 minutos e arquivos em PDF.
+
 RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
 
 ## Artefatos da funcionalidade
