@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>feedback</title>
+    <link rel="stylesheet" href="#feedbackcss.css"> <!-- Altere para o caminho correto do arquivo CSS -->
+
+<link rel="stylesheet" href="feedback.css">
+</head>
+
+<body>
+    <header>
+        <a id="logo" href="index.html"><img src="talento.png" alt="Logo"/></a>
+
+        <div class="central-content">
+            <h1 class="titulo">Bem-vindo à página de Feedback.</h1>
+            <p class="cabeçalho">Valorizamos muito seus comentários, críticas e sugestões.</p>
+            <p class="cabeçalho">Use o espaço abaixo para nos contar o que você pensa sobre nosso site</p>
+            <p class="cabeçalho"> e nos mostrar como podemos melhorar sua experiência.</p>
+            <p class="cabeçalho">Agradecemos por dedicar um tempo para nos ajudar a melhorar!</p>
+        </div>
+       
+        <a id="voltar" href="logo marca feedback.png"><img src="voltar.png" alt="Voltar para a página principal"/></a>
+    </header>
+    <main>                   
+        <div>
+            <fieldset>
+                <form action="send_feedback.php" method="POST">
+
+                    <label for="name" class="visually-hidden">Seu nome</label><br>
+                    <input type="name" id="name" name="name" placeholder="Seu nome" required><br>
+                    
+                    <label for="email" class="visually-hidden">Seu e-mail</label><br>
+                    <input type="email" id="email" name="email" placeholder=" e-mail" required><br>
+                    
+                    <label for="message" class="visually-hidden">Sua mensagem</label><br>
+                    <input type="message" id="message" name="sua mensagem" placeholder="Sua mensagem" required></input><br>
+                    
+                    <button type="submit">Enviar Feedback</button>
+                </form>
+            </fieldset>
+        </div>
+    </main>
+
+    <section>
+        <div>
+            <img src="Avatar 01.jpg" alt="avatar01">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, illo!</p>
+        </div>
+
+        <div>
+            <img src="Avatar 02.jpg" alt="avatar02">
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, illo!</p>
+        </div>
+
+        <div>
+            <img src="Avatar 03.jpg" alt="avatar03">
+            <p> Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quibusdam, pariatur. Quasi aut laborum exercitationem voluptate voluptatem ratione quibusdam est aliquid.</p>
+        </div>
+    </section>
+   
+    <footer>
+        <h3>Grupo G4 - Análise e Desenvolvimento de Sistemas - Puc Minas - 2024</h3>  
+    </footer>
+</body>
+</html>
