@@ -165,7 +165,7 @@ Será desenvolvida na proxima etapa.
 
 ### TELA SOBRE NÓS 
 
-## Responsável:Larissa
+## Responsável:Larissa Carvalho
 
 O acesso a tela sobre nós será feito através da button “sobre nós” na página principal.
 
@@ -198,7 +198,7 @@ Será desenvolvida na proxima etapa.
 
 ### TELA CADASTRAR CURRÍCULO  
 
-## Responsável: Larissa / Gabryella 
+## Responsável: Larissa Carvalho  / Gabryella 
 
 O acesso a tela cadastrar será feito através da button “cadastrar curriculo” na página principal.
 
@@ -229,7 +229,7 @@ Será desenvolvida na proxima etapa.
 
 ### TELA VISUALIZAR CURRÍCULO  
 
-## Responsável: Larissa / Gabryella 
+## Responsável: Larissa Carvalho 
 
 O acesso a tela visualizar currículo será feito através da button “visualizar curriculo” na página principal.
 
@@ -237,7 +237,9 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela visualizar currículo
 
-xxxxx
+![WhatsApp-Image-2024-05-12-at-1 13 35-PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164353864/c8452ee6-fed5-4362-9494-1f28b9bf140e)
+
+![WhatsApp-Image-2024-05-12-at-1 13 55-PM](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164353864/a9f1060c-37af-4a24-bc33-cbe43c8aa7fe)
 
 ## Requisito atendido
 
