@@ -1,0 +1,31 @@
+.mensagem img {
+    width: 100px; /* Largura da imagem */
+    height: auto; /* Altura automática */
+    margin-right: 20px; /* Margem à direita */
+}
+
+.mensagem textarea {
+    flex: 1; /* Ocupa o restante do espaço disponível */
+    padding: 10px; /* Espaçamento interno */
+    border: none; /* Sem borda */
+    border-radius: 5px; /* Bordas arredondadas */
+    background-color: #fff; /* Cor de fundo branca */
+}
+
+.mensagem label {
+    margin-left: 20px; /* Margem à esquerda */
+    font-size: 16px; /* Tamanho da fonte */
+    cursor: pointer; /* Ícone do cursor */
+}
+
+/* Estilos para o rodapé */
+footer {
+    text-align: center; /* Alinhamento central */
+    padding: 20px; /* Espaçamento interno */
+    background-color: #001f3f; /* Cor de fundo azul escuro */
+}
+
+footer p {
+    margin: 0; /* Remover margem padrão */
+    font-size: 14px; /* Tamanho da fonte */
+}
