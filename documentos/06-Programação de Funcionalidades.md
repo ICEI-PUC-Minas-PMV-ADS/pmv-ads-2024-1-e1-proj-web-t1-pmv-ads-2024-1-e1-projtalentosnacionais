@@ -257,3 +257,34 @@ Não existe estrutura de dados.
 ## Instruções de acesso
 
 Será desenvolvida na proxima etapa.
+
+### TELA Feedback da Empresa 
+
+## Responsável: Gabryella/ Larissa Carvalho
+
+O acesso permite que o profissional vizualise mensagem de empresas sobre seu currículo e possivel contratação 
+
+As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
+
+## Exemplo da tela cadastrar redes sociais
+
+xxxxx
+
+## Requisito atendido
+
+RF- 04
+A aplicação deve permitir às empresas entrar em contato com o usuário, por e-mail, permitindo a comunicação entre os dois sobre vagas, assim como dar feedback sobre o perfil do profissional.
+
+## Artefatos da funcionalidade
+
+1- Páginacadastro.css
+
+2- Páginacadastro.html
+
+## Estrutura de Dados
+
+Não existe estrutura de dados. 
+
+## Instruções de acesso
+
+Será desenvolvida na proxima etapa.
