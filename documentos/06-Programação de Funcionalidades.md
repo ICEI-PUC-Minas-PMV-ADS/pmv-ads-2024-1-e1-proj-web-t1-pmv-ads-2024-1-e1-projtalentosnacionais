@@ -173,11 +173,14 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela Sobre nós
 
-xxxxx
+![tela pagina sobre nós ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/8237b037-1bf1-40ff-a1c5-0d00d575148b)
+
 
 ## Requisito atendido
 
-xxxx
+RNF-01	- O site deve ser compatível com os principais navegadores de internet: Chrome, Firefox, Safari, Edge.
+RNF-02	- A aplicação deve permitir a visualização em diversos tipos de dispositivos.
+RNF-03  - A aplicação deve obedecer à LGPD, possuir mecanismos de proteção de dados e segurança cibernética.
 
 ## Artefatos da funcionalidade
 
