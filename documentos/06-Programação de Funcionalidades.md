@@ -198,7 +198,7 @@ Será desenvolvida na proxima etapa.
 
 ### TELA CADASTRAR CURRÍCULO  
 
-## Responsável: Larissa Carvalho  / Gabryella 
+## Responsável: Larissa Carvalho 
 
 O acesso a tela cadastrar será feito através da button “cadastrar curriculo” na página principal.
 
@@ -206,44 +206,11 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela de cadastrar currículo
 
-xxxxx
-
-## Requisito atendido
-
-RF-3: A aplicação deve permitir ao usuário inserir vídeos de 2 minutos e arquivos em PDF.
-RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
-
-## Artefatos da funcionalidade
-
-1- Páginacadastro.css
-
-2- Páginacadastro.html
-
-## Estrutura de Dados
-
-Não existe estrutura de dados. 
-
-## Instruções de acesso
-
-Será desenvolvida na proxima etapa.
-
-### TELA VISUALIZAR CURRÍCULO  
-
-## Responsável: Larissa Carvalho 
-
-O acesso a tela visualizar currículo será feito através da button “visualizar curriculo” na página principal.
-
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
-
-## Exemplo da tela visualizar currículo
-
 ![CAPTUR_1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164353864/77a4092b-e0c2-49a7-b7f1-f3dbf553f55a)
 
-
 ## Requisito atendido
 
 RF-3: A aplicação deve permitir ao usuário inserir vídeos de 2 minutos e arquivos em PDF.
-
 RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
 
 ## Artefatos da funcionalidade
@@ -259,6 +226,7 @@ Não existe estrutura de dados.
 ## Instruções de acesso
 
 Será desenvolvida na proxima etapa.
+
 
 ### TELA CADASTRAR REDES SOCIAIS 
 
