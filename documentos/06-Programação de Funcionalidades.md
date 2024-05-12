@@ -4,7 +4,7 @@ O documento de programação de funcionalidades descreve as características pri
 Ela apresenta uma imagem representativa da página, os requisitos atendidos, os artefatos relacionados à funcionalidade e as estruturas de dados utilizadas.
 
 ### TELA HOME
-## Responsável: Gabryella
+## Responsável: Gabryella Gardiano Silva
 
 O acesso a tela Home será feito através da URL.
 Trata-se da tela inicial do site, permitindo ao usuário o acesso à aplicação.
@@ -14,6 +14,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela de Home
 
+![Captura-de-tela-2024-05-12-140822](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/165951000/03c12983-8ef3-4446-864e-d2f66b057bb5)
 
 
 
@@ -230,7 +231,7 @@ Será desenvolvida na proxima etapa.
 
 ### TELA CADASTRAR REDES SOCIAIS 
 
-## Responsável: Gabryella 
+## Responsável: Gabryella Gardiano Silva 
 
 O acesso a tela cadastrar redes sociais será feito através da button “ cadastrar redes sociais ” na página principal.
 
@@ -238,7 +239,8 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela cadastrar redes sociais
 
-xxxxx
+![Captura-de-tela-2024-05-12-141738](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/165951000/bb178e23-df97-4edb-88a4-ea92852aff34)
+
 
 ## Requisito atendido
 
@@ -266,9 +268,10 @@ O acesso permite que o profissional vizualise mensagem de empresas sobre seu cur
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
-## Exemplo da tela cadastrar redes sociais
+## Exemplo da tela feedback de empresas
 
-xxxxx
+![Captura-de-tela-2024-05-12-141856](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/165951000/657a5ba7-fd97-4658-810e-c2a736e8c544)
+
 
 ## Requisito atendido
 
