@@ -131,39 +131,6 @@ Não existe estrutura de dados.
 
 Será desenvolvida na proxima etapa.
 
-### TELA FEEDBACK 
-
-## Responsável: Gabriel de Oliveira Santos
-
-O acesso a tela Feedback será feito através da button “Feedback” na página principal.
-
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
-
-## Exemplo da tela Feedback
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164515550/b790effa-326d-49c9-9a45-d2e3ee0b7bb9)
-
-
-## Requisito atendido
-
-RF-6: A aplicação deve permitir que as empresas entrem em contato com o usuário, por e-mail, possibilitando a comunicação entre os dois sobre vagas, assim como dar feedback sobre o perfil do profissional.
-
-RF8-: O perfil do profissional deve possuir um sistema de ranking que será medido pela qualidade das frequências e boas referências.
-
-## Artefatos da funcionalidade
-
-1- Páginacadastro.css
-
-2- Páginacadastro.html
-
-## Estrutura de Dados
-
-Não existe estrutura de dados. 
-
-## Instruções de acesso
-
-Será desenvolvida na proxima etapa.
-
 ### TELA SOBRE NÓS 
 
 ## Responsável:Larissa Carvalho
@@ -245,38 +212,6 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 ## Requisito atendido
 
 RF-7: A aplicação deve possuir links para redes sociais do profissional cadastrado.
-
-## Artefatos da funcionalidade
-
-1- Páginacadastro.css
-
-2- Páginacadastro.html
-
-## Estrutura de Dados
-
-Não existe estrutura de dados. 
-
-## Instruções de acesso
-
-Será desenvolvida na proxima etapa.
-
-### TELA Feedback da Empresa 
-
-## Responsável: Gabryella/ Larissa Carvalho
-
-O acesso permite que o profissional vizualise mensagem de empresas sobre seu currículo e possivel contratação 
-
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
-
-## Exemplo da tela feedback de empresas
-
-![Captura-de-tela-2024-05-12-141856](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/165951000/657a5ba7-fd97-4658-810e-c2a736e8c544)
-
-
-## Requisito atendido
-
-RF- 04
-A aplicação deve permitir às empresas entrar em contato com o usuário, por e-mail, permitindo a comunicação entre os dois sobre vagas, assim como dar feedback sobre o perfil do profissional.
 
 ## Artefatos da funcionalidade
 
