@@ -76,7 +76,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 ## Exemplo da tela de cadastro
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/dc1c7a1b-cc21-4f56-a2e5-4261884e7dee)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/132b1dcd-9e65-47dd-aa24-70f21f0aed5c)
 
 
 
@@ -110,7 +110,8 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 ## Exemplo da tela cancelar conta
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/dc1c7a1b-cc21-4f56-a2e5-4261884e7dee)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/38b51f4c-c139-4477-85c3-f4093e555569)
+
 
 ## Requisito atendido
 
@@ -118,9 +119,9 @@ RF-1: A aplicação deve permitir ao usuário cancelar sua conta no sistema.
 
 ## Artefatos da funcionalidade
 
-1- Páginacadastro.css
+1-paginacancelarconta.css
 
-2- Páginacadastro.html
+2- paginacancelarconta.html
 
 ## Estrutura de Dados
 
@@ -141,8 +142,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela Principal
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/0cf65e5b-cff2-40ec-9f03-dec4330bb1be)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/788c69af-772b-46e0-af08-c55b37d0d539)
 
 ## Requisito atendido
 
@@ -154,9 +154,9 @@ RF-10: A aplicação deve possuir um sistema de busca/pesquisa, permitindo às e
 
 ## Artefatos da funcionalidade
 
-1- Páginacadastro.css
+1- Páginaprincipal.css
 
-2- Páginacadastro.html
+2- Páginaprincipal.html
 
 ## Estrutura de Dados
 
