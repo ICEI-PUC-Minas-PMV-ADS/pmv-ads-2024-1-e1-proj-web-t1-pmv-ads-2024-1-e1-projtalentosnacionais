@@ -75,7 +75,9 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela de cadastro
 
-![Captura de tela_10-5-2024_10739_127 0 0 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/92957ed9-4198-4f93-a882-9757add05a60)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/dc1c7a1b-cc21-4f56-a2e5-4261884e7dee)
+
 
 
 ## Requisito atendido
@@ -97,6 +99,38 @@ Não existe estrutura de dados.
 
 Será desenvolvida na proxima etapa.
 
+### TELA CANCELAR CONTA
+
+## Responsável: Henrique Rodrigues Lelis
+
+O acesso a tela de conta s será feito através da button “Cancelar conta” na página princial.
+
+As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
+
+## Exemplo da tela cancelar conta
+
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/dc1c7a1b-cc21-4f56-a2e5-4261884e7dee)
+
+## Requisito atendido
+
+RF-1: A aplicação deve permitir ao usuário cancelar sua conta no sistema.
+
+## Artefatos da funcionalidade
+
+1- Páginacadastro.css
+
+2- Páginacadastro.html
+
+## Estrutura de Dados
+
+Não existe estrutura de dados. 
+
+## Instruções de acesso
+
+Será desenvolvida na proxima etapa.
+
+
 ### TELA PRINCIPAL 
 
 ## Responsável: Henrique Rodrigues Lelis
@@ -107,7 +141,8 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela Principal
 
-![Captura de tela_principal ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/40b529ef-e2d5-45eb-8645-ad651c1ae091)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/0cf65e5b-cff2-40ec-9f03-dec4330bb1be)
+
 
 ## Requisito atendido
 
