@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página Principal</title>
     <link rel="stylesheet" href="paginaprincipal.css">
-
+    <script type="module" src="telaprincipal"></script>
     <style>
         fieldset {
             padding: 100px;
@@ -48,60 +48,43 @@
 
 </head>
 
-<body>   
+<body>
     <header>
-    <style>
-        header {
-            display: flex; 
-            justify-content: flex-start; 
-            width: 80%;       
-            padding: 10px;  
-        }
-        .header-content {
-            display: flex;
-            align-items: center;
-        }
-        .header-content h1 {
-            margin-left: 30px; 
-        }
-    </style>
 
-        <a href="index.html"><img src="imagem/titulo-pagina-principal.png" alt="Título da Página Principal" width="300"></a>
-    
         <div class="header-content">
-            <h1>Olá, Nome do usuário</h1> 
+            <a href="home.html" id="btn-voltar"><img src="botaovoltarpadrão.png" alt="voltar"></a>
         </div>
+
     </header>
 
     <div class="container">
         <fieldset>
             <div>
-                <a href="criarcurriculo"><img src="imagem/criarcurriculoimg.png" width="80"><p>Criar Currículo</p>
+                <h1>Olá, Nome do usuário</h1> 
+            </div>
+
+            <div>
+                <a href="informaçõesprofissionais"><img src="criarcurriculoimg.png" width="80"><p>Criar Perfil</p>
                 </a>
             </div>
 
             <div>
-                <a href="visualizarcurriculo"><img src="imagem/visualizarcurriculoimg.png" alt="Visualizar Currículo" width="80"><p>Visualizar Currículo</p>
+                <a href="visualizarperfil"><img src="visualizarcurriculoimg.png" alt="Visualizar perfil" width="80"><p>Visualizar Perfil</p>
                 </a>
             </div>
 
             <div>
-                <a href="cadastrarredessociais"><img src="imagem/redesociaisimg.png" alt="Cadastrar Redes Sociais" width="80"><p>Cadastrar Redes Sociais</p>
+                <a href="cadastrarredessociais"><img src="redesociaisimg.png" alt="Cadastrar Redes Sociais" width="80"><p>Cadastrar Redes Sociais</p>
                 </a>
             </div>
 
             <div>
-                <a href="Sobrenos"><img src="imagem/sobrenosimg.png" alt="Sobre Nós" width="80"><p>Sobre Nós</p>
+                <a href="Sobrenos"><img src="sobrenosimg.png" alt="Sobre Nós" width="80"><p>Sobre Nós</p>
                 </a>
             </div>
 
             <div>
-                <a href="Feedback"><img src="imagem/feedbackimg.png" alt="Feedback" width="80"><p>Feedback</p>
-                </a>
-            </div>
-
-            <div>
-                <a href="Feedback"><img src="imagem/cancelarcontaimg.png" alt="cancelarconta" width="80"><p>Cancelar Conta</p>
+                <a href="cancelarcontaimg.png"><img src="cancelarcontaimg.png" alt="cancelarconta" width="80"><p>Cancelar Conta</p>
                 </a>
             </div>
 
@@ -117,7 +100,7 @@
 </body>
 
 <footer>
-    <p> Grupo G4 - Análise e Desenvolvimento de Sistemas - Puc Minas - 2024</p>  
+    <p>Grupo G4 - Análise e Desenvolvimento de Sistemas - Puc Minas - 2024</p>  
 </footer>
 
 </html>
