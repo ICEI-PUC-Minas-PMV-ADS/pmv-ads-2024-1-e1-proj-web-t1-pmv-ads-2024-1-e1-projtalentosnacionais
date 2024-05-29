@@ -26,9 +26,9 @@ RNF-03  - A aplicação deve obedecer à LGPD, possuir mecanismos de proteção 
 
 ## Artefatos da funcionalidade
 
-1- Páginacadastro.css
+1- Páginahome.css
 
-2- Páginacadastro.html
+2- Páginahome.html
 
 ## Estrutura de Dados
 
@@ -57,9 +57,9 @@ RF-4: A aplicação deve permitir que uma empresa cadastre-se e faça login como
 
 ## Artefatos da funcionalidade
 
-1- Páginacadastro.css
+1- Páginalogin.css
 
-2- Páginacadastro.html
+2- Páginalogin.html
 
 ## Estrutura de Dados
 
@@ -76,8 +76,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 ## Exemplo da tela de cadastro
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/132b1dcd-9e65-47dd-aa24-70f21f0aed5c)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/796b481b-70aa-44a9-b752-8653e29e7a59)
 
 
 ## Requisito atendido
@@ -109,9 +108,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela cancelar conta
 
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/38b51f4c-c139-4477-85c3-f4093e555569)
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/b6e69a4b-cc3d-4cbe-82f3-bde5de35803f)
 
 ## Requisito atendido
 
@@ -142,7 +139,8 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 
 ## Exemplo da tela Principal
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/788c69af-772b-46e0-af08-c55b37d0d539)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/028e83ef-3ba6-4ef0-838c-f66b0d2590c7)
+
 
 ## Requisito atendido
 
@@ -187,9 +185,9 @@ RNF-03  - A aplicação deve obedecer à LGPD, possuir mecanismos de proteção 
 
 ## Artefatos da funcionalidade
 
-1- Páginacadastro.css
+1- Páginasobrenos.css
 
-2- Páginacadastro.html
+2- Páginasobrenos.html
 
 ## Estrutura de Dados
 
@@ -199,11 +197,11 @@ Não existe estrutura de dados.
 
 Será desenvolvida na proxima etapa.
 
-### TELA CADASTRAR CURRÍCULO  
+### TELA CADASTRAR PERFIL  
 
 ## Responsável: Larissa Carvalho 
 
-O acesso a tela cadastrar será feito através da button “cadastrar curriculo” na página principal.
+O acesso a tela cadastrar será feito através da button “cadastrar perfil” na página principal.
 
 As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
 
@@ -218,9 +216,9 @@ RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
 
 ## Artefatos da funcionalidade
 
-1- Páginacadastro.css
+1- Páginacadastrarpefril.css
 
-2- Páginacadastro.html
+2- Páginacadastrarperfil.html
 
 ## Estrutura de Dados
 
@@ -250,9 +248,9 @@ RF-7: A aplicação deve possuir links para redes sociais do profissional cadast
 
 ## Artefatos da funcionalidade
 
-1- Páginacadastro.css
+1- Páginacadastrarredessociais.css
 
-2- Páginacadastro.html
+2- Páginacadastrarredessociais.html
 
 ## Estrutura de Dados
 
