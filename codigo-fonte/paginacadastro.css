@@ -1,49 +1,44 @@
 /* estilo padrão para os dispositivos*/
-* {
-    box-sizing: border-box;
-}
-
-head {
-    text-align: center;
-}
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #4b5834;
-    color: #333;
+    background:linear-gradient(to bottom, #001f3f, #000000);
     line-height: 1.6;
-    padding: 20px;
     text-align: center;
+    color: #0000;
+    background-image:url(../cadastro/imagemfundo.jpeg); 
+    background-size:cover; 
+    background-position: left; 
+    background-repeat: no-repeat;
     }
 
     div {
-        margin-bottom: 10px; 
+        margin-bottom: 10px;
+    }
+    header {
+        display: flex;
+        align-items: center; 
+        justify-content: flex-end;   
+        margin: 25px;
+    }
+header #botaovoltar img {
+    width: 50px; 
+    height: 50px; 
+    border-radius: 30px;
+    margin: 30px;
+    margin-top: 50px;
+    padding: 10px;
     }
 
-header img {
-    height: 40px;
-    width: auto;
-    border-radius: 40px;
-    margin: 0px; 
-    border: #333;
-   }
-h1 {
-     font-size: 50px; 
-     margin: 0; 
-     color: rgb(29, 4, 100); 
-     text-align:center; 
-     flex-grow: 1;   
- }
-
 h2 {
+    font-size: 30px;
     text-align: center;
     margin-bottom: 20px;
-    color: black;
+    color:white;
 }
 
 p {
     font-family: Arial, sans-serif;
-    background: rgb(41, 70, 41);
     color: white;
     line-height: 1.6;
     padding: 10px;
@@ -51,15 +46,15 @@ p {
 }
 
 a {
-    color: blue;
+    color:white;
     background-color: none;
     text-decoration: none;
 }
- 
+
 form {
     text-align: center;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
     border: none;
     border-radius: 30px;
     background-color: whitesmoke
@@ -67,7 +62,6 @@ form {
 
 fieldset {
     line-height: 1.6;
-    padding: 20px;
     text-align: center;
     border: none;
     border-radius: 30px;
@@ -98,11 +92,6 @@ button[type="submit"] {
     font-size: 16px;
 }
 
-button:hover {
-    text-align: center;
-    background-color: #006bb3; 
-}
-
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -120,70 +109,5 @@ footer {
     margin-right: 20px;
     margin-top: 20px;
     padding: 20px;
-    background: rgb(41, 70, 41);
-    color: rgba(245, 245, 245, 0.596);
-    border-radius: 40px;
-}
-
-/* stilo para desktop*/
-@media (min-width: 801px) {
-    header, footer {
-        padding: 30px;
-    }
-
-    header img {
-        height: 100px;
-    }
-
-    form {
-        width: 50%;
-        margin: 0 auto; 
-    }
-
-    h1, h2 {
-        text-align: center;
-    }
-}
-
-/*stilo para celular*/
-@media (max-width: 599px) {
-    header img { 
-        height: 40px;
-    }
-        
-        form {
-        margin: 5px; 
-        padding: 5px;
-    }
-
-    input[type="text"],
-    input[type="email"],
-    input[type="password"] {
-        padding: 8px;
-    }
-
-    button {
-        padding: 12px; 
-    }
-}
-
-/* stilo para tablet*/
-
-@media (min-width: 600px) and (max-width: 800px) {
-    header, footer {
-        padding: 20px;
-    }
-
-    header img {
-        height: 80px;
-    }
-
-    form {
-        width: 80%;
-        margin: 0 auto;
-    }
-
-    button {
-        background-color: #006bb3;
-    }
+    font-size: x-large;
 }
