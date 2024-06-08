@@ -14,7 +14,7 @@ Responsável pelo teste - Gabriel
 
 | Caso de teste                 | Requisitos Associados     | Objeitvos do teste | Passos | Critérios de êxito | 
 |-------------------------------|---------------------------|--------------------|--------|--------------------|
-| CT-01: Verificar links        | RNF-01 - O site deve ser compatível com os principais navegadores de internet| Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente| 1- Acessar a página Home 2- Clicar nos links da página Home | Todos os links da página Home devem encaminhar os usuários para as páginas descritas|
+| CT-xx:xxxx                    | xxxxxxxxxxxxxxxxxxxxxxxxxx| xxxxxxxxxxxxxxxxxx | xxxxxxx|xxxxxxxxxxxxxxxxxxxx|
 
 
 ## Página Sobre Nôs
