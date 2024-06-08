@@ -184,7 +184,8 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Exemplo da tela Sobre nós
 
-![tela pagina sobre nós ](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/8237b037-1bf1-40ff-a1c5-0d00d575148b)
+![Screenshot 2024-06-08 17 45 45](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164353864/e8f202c0-4fd5-43ce-b64e-990aa5169723)
+
 
 
 ## Requisito atendido
