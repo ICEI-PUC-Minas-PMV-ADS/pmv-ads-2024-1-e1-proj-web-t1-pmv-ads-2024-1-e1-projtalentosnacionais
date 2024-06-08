@@ -219,7 +219,8 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Exemplo da tela de cadastrar currículo
 
-![CAPTUR_1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164353864/77a4092b-e0c2-49a7-b7f1-f3dbf553f55a)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/810b3b77-f4c2-4ebe-a4dd-77ed7c31511e)
+
 
 ## Requisito atendido
 
