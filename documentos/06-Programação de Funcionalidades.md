@@ -30,6 +30,8 @@ RNF-03  - A aplicação deve obedecer à LGPD, possuir mecanismos de proteção 
 
 2- Páginahome.html
 
+3- Páginahome.javascript
+
 ## Estrutura de Dados
 
 Não existe estrutura de dados. 
@@ -60,6 +62,8 @@ RF-4: A aplicação deve permitir que uma empresa cadastre-se e faça login como
 1- Páginalogin.css
 
 2- Páginalogin.html
+
+3- Páginalogin.javascript
 
 ## Estrutura de Dados
 
@@ -118,7 +122,9 @@ RF-1: A aplicação deve permitir ao usuário cancelar sua conta no sistema.
 
 1-paginacancelarconta.css
 
-2- paginacancelarconta.html
+2-paginacancelarconta.html
+
+3-paginacancelarconta.javascript
 
 ## Estrutura de Dados
 
@@ -156,6 +162,8 @@ RF-10: A aplicação deve possuir um sistema de busca/pesquisa, permitindo às e
 
 2- Páginaprincipal.html
 
+3- Páginaprincipal.javascript
+
 ## Estrutura de Dados
 
 Não existe estrutura de dados. 
@@ -189,6 +197,8 @@ RNF-03  - A aplicação deve obedecer à LGPD, possuir mecanismos de proteção 
 
 2- Páginasobrenos.html
 
+3- Páginasobrenos.javascript
+
 ## Estrutura de Dados
 
 Não existe estrutura de dados. 
@@ -220,6 +230,8 @@ RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
 
 2- Páginacadastrarperfil.html
 
+3-Páginacadastrarperfil.javascript
+
 ## Estrutura de Dados
 
 Não existe estrutura de dados. 
@@ -228,6 +240,38 @@ Não existe estrutura de dados.
 
 Será desenvolvida na proxima etapa.
 
+### TELA VISUALIZAR PERFIL  
+
+## Responsável:Gabriel 
+
+O acesso a tela será feito através da button “login” na página login.
+
+As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+## Exemplo da tela de cadastrar currículo
+
+[Visualizar Perfil.pdf](https://github.com/user-attachments/files/15749452/Visualizar.Perfil.pdf)
+
+
+## Requisito atendido
+
+RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
+
+## Artefatos da funcionalidade
+
+1- Páginacadastrarpefril.css
+
+2- Páginacadastrarperfil.html
+
+3-Páginacadastrarperfil.javascript
+
+## Estrutura de Dados
+
+Não existe estrutura de dados. 
+
+## Instruções de acesso
+
+Será desenvolvida na proxima etapa.
 
 ### TELA CADASTRAR REDES SOCIAIS 
 
@@ -251,6 +295,8 @@ RF-7: A aplicação deve possuir links para redes sociais do profissional cadast
 1- Páginacadastrarredessociais.css
 
 2- Páginacadastrarredessociais.html
+
+3- Páginacdastrarredessociais.javascript
 
 ## Estrutura de Dados
 
