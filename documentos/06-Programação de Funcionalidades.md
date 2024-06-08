@@ -219,7 +219,8 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Exemplo da tela de cadastrar currículo
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/810b3b77-f4c2-4ebe-a4dd-77ed7c31511e)
+![Screenshot 2024-06-08 17 28 48](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164353864/e8734eab-7591-4e2b-b022-5aedec6310e1)
+
 
 
 ## Requisito atendido
@@ -300,6 +301,40 @@ RF-7: A aplicação deve possuir links para redes sociais do profissional cadast
 2- Páginacadastrarredessociais.html
 
 3- Páginacdastrarredessociais.javascript
+
+## Estrutura de Dados
+
+Não existe estrutura de dados. 
+
+## Instruções de acesso
+
+Será desenvolvida na proxima etapa.
+
+### TELA RESULTADO DE BUSCA 
+
+## Responsável: Larissa Carvalho  
+
+A pagina resultado de busca deve mostra currículos com palavra que foi escrita no buscar da pagia "tela principal", além de permitir aplicação de filtro.
+
+As estruturas de dados foram baseadas em HTML, CSS e JS.
+
+## Exemplo da tela resultado de busca
+
+![Screenshot 2024-06-08 17 24 40](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164353864/8db3b6f5-a7fd-4abe-bb17-684e623d0c98)
+
+
+
+## Requisito atendido
+
+RF-8: A aplicação deve possuir resultado baseado em palavras chaves 
+
+## Artefatos da funcionalidade
+
+1- Páginaresultadodebusca.css
+
+2- Páginaresultadodebusca.html
+
+3- Páginaresultadodebusca.javascript
 
 ## Estrutura de Dados
 
