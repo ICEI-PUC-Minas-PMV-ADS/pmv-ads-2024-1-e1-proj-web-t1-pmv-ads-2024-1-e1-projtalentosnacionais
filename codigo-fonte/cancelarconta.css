@@ -4,7 +4,7 @@ body {
     line-height: 1.6;
     text-align: center;
     color: #0000;
-    background-image:url(imagemfundo.jpeg); /* Substitua 'fundo.jpg' pelo caminho correto da sua imagem */
+    background-image:url("imagemfundo.jpeg"); /* Substitua 'fundo.jpg' pelo caminho correto da sua imagem */
     background-size:cover; /* Garante que a imagem cubra toda a área do body */
     background-position: unset; /* Centraliza a imagem */
     background-repeat: no-repeat; /* Evita que a imagem se repita */
