@@ -7,32 +7,34 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>loginpage</title>
     <body>
-        <img height="200" width="250" src="talento.png">
 
 </head>
-<body>
-    <div>
+<body background="talentos.jpg">
+
+    <div class="MENU" style="text-align: center;">
         <h1>ENTRAR</h1>
         <h3>Inscreva-se para continuar</h3>
-        <input type="text" placeholder="Email">
+        <input type="email" id="email" placeholder="Email">
         <br><br>
-        <input type="password" placeholder="Senha">
+        <input type="password" id="senha" placeholder="Senha">
         <br><br>
-        <button>Enviar</button>
-        <br>
-        <img height="50" width="50" src="linke.png">
-        <img height="50" width="50" src="gmail.png">
-        <img height="50" width="50" src="facebook.png">
+        <button class="redirect-button" onclick="redirectToPage()" id="entrarBtn">ENTRAR</button>
+        <a style="color: black;" href="https://esqueciminhasenha.com"><h6>ESQUECI MINHA SENHA</h6 class= "ESQUECI"> </a>
+        <a href="https://www.linkedin.com/login/pt"> <img height="50" width="50" src="linke.png" class="linke"> </a>
+        <a href="https://accounts.google.com/"> <img height="50" width="50" src="gmail.png" class="gmail"> </a>
+        <a href="https://www.facebook.com/"> <img height="50" width="50" src="facebook.png" class="facebook"> </a>
         <br><br>
-        <b4>Não possui uma conta?</b4>
-        <br>
-        <b6>CRIAR CONTA</b6>
+        <b6>Não possui uma conta? <a style="color: black;" href="https://criarconta.com.br"> CRIAR CONTA </a> </b6>
 
- </div>
-   <head>
-    <link rel="stylesheet" type="text/css" href="CSS">
-   </head>
     
-</body>
+</div>
+   <head>
+    <script type="text/javascript" src="paglogin.js"></script> 
+    <link rel="stylesheet" type="text/css" href="paglogin.css">
+    <script type="module" src="PAG LOGIN.JS"></script>
+    <footer style="text-align: center;">
+        <h4>Grupo G4 - Análise e Desenvolvimento de Sistemas - Puc Minas - 2024</h4 class= "rodape"></footer>
+</body> 
 
-</html>
+
+    </html>
