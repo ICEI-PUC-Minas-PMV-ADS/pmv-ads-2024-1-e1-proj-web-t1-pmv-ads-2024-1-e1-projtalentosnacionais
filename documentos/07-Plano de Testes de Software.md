@@ -8,49 +8,23 @@ Os requisistos para realização dos testes de software são:
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
-<table>
- <tr>
-  <th>Caso de teste</th>
-  <th>Requisitos associados</th>
-  <th>Objetivo do teste</th>
-  <th>Passos</th>
-  <th>Critérios de êxito</th>
-  <th>Responsável</th>
- </tr>
- <tr>
-  <td>CT-01: Verificar o funcionamento dos links da página Home</td>
-  <td>
-   <ul>
-    <li>RF-001:	O site deve permitir ao usuário cadastrar uma conta.</li>
-   <li>RF-002:	O site deve permitir ao usuário fazer o login da sua conta.</li>
-   <li>RF-005:	O site deve permitir ao usuário disponibilizar informações das disciplinas de tutoria e suas informações para contato.</li>
-    <li>RF-007:	O site deve permitir ao usuário visualizar os detalhes do livro.</li>
-   </ul>
-  </td>
-  <td>Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente</td>
-  <td>
-   <ol>
-    <li>Acessar o navegador.</li>
-    <li>Informar o endereço do site.</li>
-    <li>Visualizar a página Home.</li>
-    <li>Clicar nos links da página Home.</li>
-   </ol>
-   </td>
-  <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
-  <td>Maria</td>
- </tr>
-
- 
- | Caso de teste
-</table>
-
 ## Página Home
 
-Responsável - Gabriel 
+Responsável pelo teste - Gabriel 
+
+| Caso de teste                 | Requisitos Associados     | Objeitvos do teste | Passos | Critérios de êxito | 
+|-------------------------------|---------------------------|--------------------|--------|--------------------|
+| CT-01: Verificar links        | RNF-01 - O site deve ser compatível com os principais navegadores de internet| Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente| 1- Acessar a página Home 2- Clicar nos links da página Home | Todos os links da página Home devem encaminhar os usuários para as páginas descritas|
+
+
+## Página Sobre Nôs
+
+Responsável pelo teste - Henrique R Lelis
 
 | Caso de teste          | Requisitos Associados     | Objeitvos do teste | Passos | Critérios de êxito | 
 |------------------------|---------------------------|--------------------|--------|--------------------|
-| CT-01: Verificar links  | RNF-01 - O site deve ser compatível com os principais navegadores de internet| Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente| 1- Acessar o navegador 2- Informar o endereço do site 3- Visualizar a página Home 4- Clicar nos links da página Home.
+| CT-01: Verificar links | RNF-01 - O site deve ser compatível com os principais navegadores de internet| Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente| 1- Acessar a página Home 2- Clicar nos links da página Home | Todos os links da página Home devem encaminhar os usuários para as páginas descritas|
+
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
