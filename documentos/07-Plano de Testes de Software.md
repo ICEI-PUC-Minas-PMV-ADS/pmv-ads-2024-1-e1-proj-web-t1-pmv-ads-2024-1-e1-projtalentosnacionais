@@ -6,7 +6,7 @@ Os requisistos para realização dos testes de software são:
 
 1- Códigos desenvolvidos em HTML, CSS e Javascript
 
-Os testes funcionais a serem realizados na aplicação são descritos a seguir. [Utilize a estrutura abaixo para cada caso de teste]
+Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
 <table>
  <tr>
@@ -39,8 +39,18 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
   <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
   <td>Maria</td>
  </tr>
+
+ 
+ | Caso de teste
 </table>
 
+## Página Home
+
+Responsável - Gabriel 
+
+| Caso de teste          | Requisitos Associados     | Objeitvos do teste | Passos | Critérios de êxito | 
+|------------------------|---------------------------|--------------------|--------|--------------------|
+| CT-01: Verificar links  | RNF-01 - O site deve ser compatível com os principais navegadores de internet| Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente| 1- Acessar o navegador 2- Informar o endereço do site 3- Visualizar a página Home 4- Clicar nos links da página Home.
 
 
 |Caso de Teste    | CT-X - Título Caso de Teste |
