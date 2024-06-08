@@ -9,7 +9,7 @@ Ela apresenta uma imagem representativa da página, os requisitos atendidos, os 
 O acesso a tela Home será feito através da URL.
 Trata-se da tela inicial do site, permitindo ao usuário o acesso à aplicação.
 
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
+As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 
 ## Exemplo da tela de Home
@@ -75,7 +75,7 @@ Não existe estrutura de dados.
 
 O acesso a tela de cadastros será feito através da button “Cadastre-se” na página Home.
 
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
+As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Exemplo da tela de cadastro
 
@@ -94,6 +94,8 @@ RF-4: A aplicação deve permitir que uma empresa cadastre-se e faça login como
 
 2- Páginacadastro.html
 
+3-Páginacadasrto.javascript
+
 ## Estrutura de Dados
 
 Não existe estrutura de dados. 
@@ -108,7 +110,7 @@ Será desenvolvida na proxima etapa.
 
 O acesso a tela de conta s será feito através da button “Cancelar conta” na página princial.
 
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
+As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Exemplo da tela cancelar conta
 
@@ -141,7 +143,7 @@ Será desenvolvida na proxima etapa.
 
 O acesso a tela principal será feito através da button “Login” na página Home.
 
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
+As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Exemplo da tela Principal
 
@@ -178,7 +180,7 @@ Será desenvolvida na proxima etapa.
 
 O acesso a tela sobre nós será feito através da button “sobre nós” na página principal.
 
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
+As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Exemplo da tela Sobre nós
 
@@ -213,7 +215,7 @@ Será desenvolvida na proxima etapa.
 
 O acesso a tela cadastrar será feito através da button “cadastrar perfil” na página principal.
 
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
+As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Exemplo da tela de cadastrar currículo
 
@@ -248,9 +250,9 @@ O acesso a tela será feito através da button “login” na página login.
 
 As estruturas de dados foram baseadas em HTML, CSS e JS.
 
-## Exemplo da tela de cadastrar currículo
+## Exemplo da tela de visualizar Perfil
 
-[Visualizar Perfil.pdf](https://github.com/user-attachments/files/15749452/Visualizar.Perfil.pdf)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164432177/8d644988-00af-430c-bad4-1e65206a99f0)
 
 
 ## Requisito atendido
@@ -279,7 +281,7 @@ Será desenvolvida na proxima etapa.
 
 O acesso a tela cadastrar redes sociais será feito através da button “ cadastrar redes sociais ” na página principal.
 
-As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na proxima etapa).
+As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Exemplo da tela cadastrar redes sociais
 
