@@ -326,7 +326,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Requisito atendido
 
-RF-8: A aplicação deve possuir resultado baseado em palavras chaves 
+RF-10: A aplicação deve possuir resultado baseado em palavras chaves 
 
 ## Artefatos da funcionalidade
 
