@@ -23,21 +23,5 @@ Responsável pelo teste - Henrique R Lelis
 
 | Caso de teste          | Requisitos Associados     | Objeitvos do teste | Passos | Critérios de êxito | 
 |------------------------|---------------------------|--------------------|--------|--------------------|
-| CT-01: Verificar links | RNF-01 - O site deve ser compatível com os principais navegadores de internet| Verificar se os links da página Home estão encaminhando para as respectivas páginas corretamente| 1- Acessar a página Home 2- Clicar nos links da página Home | Todos os links da página Home devem encaminhar os usuários para as páginas descritas|
+| CT-01: Verificar a responsividade da página | RNF- 02 A aplicação deve permitir a visualização em diversos tipos de dispositivos.| Verificar se a página Home está responsiva em diversos formatos| 1- Acessar a página Home 2- abrir as ferramentas de desenvolvimento do navegador 3- alterar as dimensões da tela para os formatos | A página deve ser responsiva aos formatos de celurares, tablet e PC|
 
-
-
-|Caso de Teste    | CT-X - Título Caso de Teste |
-|:---|:---|
-| Requisitos Associados | RF-X |
-| Objetivo do Teste | Descrição do objetivo do teste |
-| Passos | Indicar passos para a execução do teste |
-| Critérios de êxito | Indicar os critérios de êxito  |
-| Responsável pela elaborar do caso de Teste | Nome do integrante da equipe |
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
