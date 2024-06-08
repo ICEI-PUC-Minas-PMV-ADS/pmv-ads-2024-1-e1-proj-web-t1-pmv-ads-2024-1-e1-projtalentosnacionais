@@ -1,61 +1,81 @@
+/* estilo.css */
+
+/* Estilo para o corpo da página */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(180deg, #465882, #4b5834);
 }
 
+/* Estilo para o cabeçalho */
 header {
-    background-color: #c57f8f;
+    background-color: #005691;
     color: #fff;
     text-align: center;
     padding: 20px;
+    position: relative;
 }
 
-.menu-btn {
-    float: left;
-}
-
-button {
-    background-color: transparent;
+/* Estilo para o botão de menu */
+#menuButton {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background-color: #005691;
     color: #fff;
     border: none;
     cursor: pointer;
-    font-size: 16px;
 }
 
+#menuButton:hover {
+    background-color: #777;
+}
+
+/* Estilo para o menu */
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin-bottom: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Esconde o menu por padrão */
+.hidden {
+    display: none;
+}
+
+/* Estilo para o conteúdo principal */
 main {
     padding: 20px;
 }
 
-section {
-    margin-bottom: 20px;
-    background-color: rgba(255, 255, 255, 0.8);
-    padding: 15px;
-    border-radius: 5px;
+/* Estilo para a seção Sobre Nós com imagem de fundo */
+#about {
+    background-image: url('imagemfundo.jpeg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
 }
 
-h2 {
-    color: #333;
-}
-
+/* Estilo para o rodapé */
 footer {
-    background-color: #c57f8f;
+    background-color: #005691;
     color: #fff;
     text-align: center;
     padding: 10px;
-}
-
-.team-info {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.team-info p {
-    margin-right: 10px;
-}
-
-.team-info img {
-    max-width: 100px;
 }
