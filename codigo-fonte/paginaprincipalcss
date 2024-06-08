@@ -1,7 +1,7 @@
 header {
   display: flex;
-  align-items: center; 
-  justify-content: space-between; 
+  align-items: center; /* Alinha verticalmente os itens no centro */
+  justify-content: space-between; /* Mantém os itens alinhados à esquerda */
   width: 80%;
   height: 80%;
   margin: auto;
@@ -14,11 +14,13 @@ header {
 
 .header-content {
   margin-left: auto;
- }
+  /* Removi a largura e altura, pois isso não é necessário para a div. */
+  /* Também removi o padding, pois não é necessário aqui. */
+}
 
 header img {
-  width: 100px;
-  height: 100px; 
+  width: 100px; /* Ajusta o tamanho das imagens */
+  height: 100px; /* Mantém a proporção */
   border-radius: 50px;
 }
 h1{
@@ -27,11 +29,11 @@ h1{
 
 body {
   font-family: Arial, sans-serif;
-  background-image: url(imagemfundo.jpeg); 
-  background-size: cover; 
-  background-position:left;
-  background-repeat: no-repeat; 
-  margin: 250px; 
+  background-image: url(imagemfundo.jpeg); /* Substitua pelo caminho correto da sua imagem */
+  background-size: cover; /* Garante que a imagem cubra toda a área do body */
+  background-position:left; /* Centraliza a imagem */
+  background-repeat: no-repeat; /* Evita que a imagem se repita */
+  margin: 250px; /* Ajuste a margem conforme necessário */
 }
 
 fieldset {
@@ -40,8 +42,8 @@ fieldset {
   border-radius: 30px;
   max-width: 100%;
   color: #0c0c0c;
-  margin: 20px auto; 
-  padding: 20px; 
+  margin: 20px auto; /* Centraliza o fieldset */
+  padding: 20px; /* Adiciona espaçamento interno */
 }
 
 img {
@@ -59,7 +61,7 @@ a {
 form {
   background: #ffffff;
   padding: 100px;
-  margin: 10px; 
+  margin: 10px; /* Centraliza o form e adiciona margem superior */
   border-radius: 30px;
   text-align: center;
   max-width: 350%;
@@ -70,23 +72,23 @@ input[type="text"],
 input[type="email"],
 input[type="password"] {
   width: calc(100% - 22px);
-  padding: 10px; 
-  margin: 10px;
+  padding: 10px; /* Ajusta o padding */
+  margin: 10px; /* Adiciona margem vertical */
   border: 1px solid #ccc;
   border-radius: 20px;
-  font-size: 24px; 
-  text-align: center; 
+  font-size: 24px; /* Ajusta o tamanho da fonte */
+  text-align: center; /* Ajusta o alinhamento do texto */
 }
 
 button {
-  width: 150px; 
-  padding: 10px; 
+  width: 150px; /* Ajusta a largura do botão */
+  padding: 10px; /* Ajusta o padding */
   background-color: #005691;
   color: white;
   border: none;
   cursor: pointer;
   border-radius: 10px;
-  font-size: 24px; 
+  font-size: 24px; /* Ajusta o tamanho da fonte */
 }
 
 button:hover {
