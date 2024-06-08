@@ -1,0 +1,125 @@
+/* Estilos para a página de visualização do currículo */
+
+body {
+    font-family: Arial, sans-serif;
+    background:linear-gradient(to bottom, #001f3f, #000000);
+    line-height: 1.6;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-image:url(talentos.jpg); /* Substitua 'fundo.jpg' pelo caminho correto da sua imagem */
+    background-size:cover; /* Garante que a imagem cubra toda a área do body */
+    background-position: unset; /* Centraliza a imagem */
+    background-repeat: no-repeat; /* Evita que a imagem se repita */
+  }
+  header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 30px;
+    color: #333;
+}
+
+header #botaovoltar img {
+    width: 100px; /* Ajusta o tamanho das imagens */
+    height: 100px; /* Mantém a proporção */
+    border-radius: 30px;
+    margin: 30px;
+    margin-top: 100px;
+    padding: 10px;
+}
+
+main {
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 50px;
+    margin: 150px;
+    }
+
+h2 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+section {
+    margin-bottom: 50px;
+    border-radius: 50px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+span {
+    font-weight: bold;
+}
+
+/* Estilos específicos para cada seção */
+
+#informaçoesprofissionais,
+#graduacao,
+#cursos-extras,
+#portfolio {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+/* Estilos para elementos da lista de cursos extras */
+
+#cursos-extras-list li,
+#portfolio-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+/* Estilos para o botão "Salvar" */
+
+button[id="save"],
+button[id="Limpar"] {
+    width: 30%;
+    padding: 20px;
+    margin: 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 30px;
+}
+
+fieldset {
+    line-height: 1.6;
+    text-align: center;
+    border: none;
+    border-radius: 30px;
+}
+
+footer {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-size: 36px;
+    color: white;
+}
+
+input{
+    padding: 50px;
+    border-radius: 25px;
+    outline-width:rgb(255, 0, 0) ;
+    font-size: 15px;
+    width: 90%;
+}
