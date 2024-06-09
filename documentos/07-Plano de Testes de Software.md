@@ -12,9 +12,10 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 Responsável pelo teste - Gabriel 
 
-| Caso de teste                 | Requisitos Associados     | Objetivos do teste | Passos | Critérios de êxito | 
-|-------------------------------|---------------------------|--------------------|--------|--------------------|
-| CT-xx:xxxx                    | xxxxxxxxxxxxxxxxxxxxxxxxxx| xxxxxxxxxxxxxxxxxx | xxxxxxx|xxxxxxxxxxxxxxxxxxxx|
+| Caso de teste          | Requisitos Associados     | Objetivos do teste | Passos | Critérios de êxito | 
+|------------------------|---------------------------|--------------------|--------|--------------------|
+| CT-01: Verificar a responsividade da página | RNF- 02 A aplicação deve permitir a visualização em diversos tipos de dispositivos.| Verificar se a página está responsiva em diversos formatos| 1- Acessar a página 2- abrir as ferramentas de desenvolvimento do navegador 3- alterar as dimensões da tela para os formatos | A página deve ser responsiva aos formatos de celurares, tablet e PC|
+| CT-02: Verificar a usabilidade        |RF-3: RF-12	A aplicação deve possuir um sistema que permite o usuario ter acesso as outras paginas do site. |
 
 
 ## Página Sobre Nós
