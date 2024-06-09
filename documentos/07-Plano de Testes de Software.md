@@ -44,3 +44,13 @@ Responsável pelo teste - Henrique R Lelis
 |------------------------|---------------------------|--------------------|--------|--------------------|
 | CT-01: Verificar a responsividade da página | RNF- 02 A aplicação deve permitir a visualização em diversos tipos de dispositivos.| Verificar se a página está responsiva em diversos formatos| 1- Acessar a página  2- abrir as ferramentas de desenvolvimento do navegador 3- alterar as dimensões da tela para os formatos | A página deve ser responsiva aos formatos de celurares, tablet e PC|
 | CT-02: Verificar a usabilidade        |RF-10: A aplicação deve possuir resultado baseado em palavras chaves| Verificar se possui todos campos necessários para o usuário visualizar os resultados da busca de acordo com as palavras chaves| 1- Acessar a página  2- visualizar os resultados da página | os resultados devem ser permitir ao usuário acessar os perfis desejado |
+
+
+## Página Cadastro
+
+Responsável pelo teste - Larissa Carvalho 
+
+| Caso de teste          | Requisitos Associados     | Objetivos do teste | Passos | Critérios de êxito | 
+|------------------------|---------------------------|--------------------|--------|--------------------|
+| CT-01: Verificar a responsividade da página | RF-01 A aplicação deve permitir ao usuário criar uma conta com login e senha.| Verificar se a página está responsiva em diversos formatos| 1- Acessar a página  2- abrir as ferramentas de desenvolvimento do navegador 3- alterar as dimensões da tela para os formatos | A página deve ser responsiva aos formatos de celurares, tablet e PC|
+| CT-02: Verificar a usabilidade        |RF-10: A aplicação deve possuir resultado baseado em palavras chaves| Verificar se possui todos campos necessários para o usuário visualizar os resultados da busca de acordo com as palavras chaves| 1- Acessar a página  2- visualizar os resultados da página | os resultados devem ser permitir ao usuário acessar os perfis desejado |
