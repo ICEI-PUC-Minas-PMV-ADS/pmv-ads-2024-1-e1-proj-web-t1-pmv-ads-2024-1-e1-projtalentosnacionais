@@ -76,7 +76,9 @@ Responsável - Larissa Carvalho
 |Caso de teste                              | Resultados obtidos     |
 |-------------------------------------------|------------------------|
 |CT-02: Verificar a usabilidade             | dever ser corrigido para só cancelar quando digitado a palavra correta |
+
 ![Screenshot 2024-06-09 10 11 13](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/71b1330f-1dd3-4fbf-a374-655a9dbe964b)
+
 ![Screenshot 2024-06-09 10 11 25](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/dff05fdd-dcde-44c3-9c03-0930364a1e65)
 
 
@@ -96,4 +98,5 @@ Responsável - Larissa Carvalho
 |CT-02: Verificar a usabilidade             | botões funcinado corretamente, precisando colocar link das páginas  |
 
 ![Screenshot 2024-06-09 10 11 50](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/a82bd7b4-3be8-4629-becd-49c4e8de9d23)
+
 ![Screenshot 2024-06-09 10 11 59](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/fa55f7b5-a055-4f39-8bb1-768ec7982ef3)
