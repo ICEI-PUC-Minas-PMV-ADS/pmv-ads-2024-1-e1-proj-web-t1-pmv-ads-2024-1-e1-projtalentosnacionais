@@ -43,3 +43,56 @@ Responsável - Henrique Lelis
 
 ![resultadobusca2](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164432177/37f93e2f-62ee-4736-99e5-639314b645d8)
 
+
+# Página de Cadastro
+
+Responsável - Larissa Carvalho
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-01: Verificar a responsividade da página| Funcionou corretamente |
+
+
+
+
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-02: Verificar a usabilidade             | funcionou corretamente |
+
+[Screenshot 2024-06-09 10 10 34](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/88b2f493-92dc-4233-9c6c-aa9025896522)
+
+![Screenshot 2024-06-09 10 10 47](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/ff49e2cc-514d-4c6a-a9f3-c24397da53d2)
+
+
+# Página Cancelar conta
+
+Responsável - Larissa Carvalho
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-01: Verificar a responsividade da página| Funcionou corretamente |
+
+
+
+
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-02: Verificar a usabilidade             | dever ser corrigido para só cancelar quando digitado a palavra correta |
+![Screenshot 2024-06-09 10 11 13](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/71b1330f-1dd3-4fbf-a374-655a9dbe964b)
+![Screenshot 2024-06-09 10 11 25](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/dff05fdd-dcde-44c3-9c03-0930364a1e65)
+
+
+
+# Página Cancelar conta
+
+Responsável - Larissa Carvalho
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-01: Verificar a responsividade da página| Funcionou corretamente |
+
+
+
+
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-02: Verificar a usabilidade             | botões funcinado corretamente, precisando colocar link das páginas  |![Screenshot 2024-06-09 10 11 50](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/a82bd7b4-3be8-4629-becd-49c4e8de9d23)
+
+![Screenshot 2024-06-09 10 11 59](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/fa55f7b5-a055-4f39-8bb1-768ec7982ef3)
