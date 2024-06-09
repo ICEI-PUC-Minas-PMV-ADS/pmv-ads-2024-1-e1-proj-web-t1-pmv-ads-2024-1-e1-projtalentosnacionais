@@ -58,7 +58,7 @@ Responsável - Larissa Carvalho
 |-------------------------------------------|------------------------|
 |CT-02: Verificar a usabilidade             | funcionou corretamente |
 
-[Screenshot 2024-06-09 10 10 34](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/88b2f493-92dc-4233-9c6c-aa9025896522)
+![Screenshot 2024-06-09 10 10 34](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/88b2f493-92dc-4233-9c6c-aa9025896522)
 
 ![Screenshot 2024-06-09 10 10 47](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/ff49e2cc-514d-4c6a-a9f3-c24397da53d2)
 
