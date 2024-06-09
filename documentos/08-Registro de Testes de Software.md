@@ -103,3 +103,23 @@ Responsável - Larissa Carvalho
 ![Screenshot 2024-06-09 10 11 50](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/a82bd7b4-3be8-4629-becd-49c4e8de9d23)
 
 ![Screenshot 2024-06-09 10 11 59](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/fa55f7b5-a055-4f39-8bb1-768ec7982ef3)
+
+
+
+#Página Home
+
+Responsável - Gabriel de Oliveira
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-01: Verificar a responsividade da página| Funcionou corretamente |
+
+
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-02: Verificar a usabilidade             | botões funcinado corretamente, precisando colocar link das páginas  |
+
+
+
+![HomePage](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164515550/dfe3d217-139b-40e0-a361-1e3948e7fa6e)
+
+
