@@ -85,6 +85,7 @@ Com base nas Histórias de Usuários, foram elaborados requisitos de solução:
 | RF-08  | O perfil do profissional deve possuir um sistema de ranking que será medido pela qualidade das indicações e boas referências.|  Baixa|
 | RF-09  | A aplicação deve permitir as empresas ofertar vagas para os profissionais.| Alta|
 | RF-10  | A aplicação deve possuir um sistema de busca/pesquisa, permitindo às empresas encontrar profissionais por meio de filtros específicos.| Alta|
+| RF-11  | A aplicação deve possuir um sistema de cancelar conta, permitindo o usuário cancelar o seu perfil.| Alta|
 
 
 **Prioridade: Alta / Média / Baixa. 
