@@ -10,5 +10,6 @@ Os resultados dos testes funcionais realizados na aplicação são descritos a s
 |CT-01: Verificar a responsividade da página| Funcionou corretamente |
 
 
+![telasobrenos](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164432177/3cd7c633-5b05-4cad-8881-1a7dbc193a0b)
 
 xx
