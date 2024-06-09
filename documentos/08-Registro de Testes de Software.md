@@ -51,6 +51,7 @@ Responsável - Larissa Carvalho
 |-------------------------------------------|------------------------|
 |CT-01: Verificar a responsividade da página| Funcionou corretamente |
 
+![paginacadastro](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/d273e683-96d5-4b00-a23d-f3eba5664fdc)
 
 
 
@@ -70,6 +71,7 @@ Responsável - Larissa Carvalho
 |-------------------------------------------|------------------------|
 |CT-01: Verificar a responsividade da página| Funcionou corretamente |
 
+![cancelarconta](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/25f09176-baaf-46b9-97ad-b50b572565d8)
 
 
 
@@ -83,13 +85,14 @@ Responsável - Larissa Carvalho
 
 
 
-# Página Cancelar conta
+# Página Página principal/ Menu
 
 Responsável - Larissa Carvalho
 |Caso de teste                              | Resultados obtidos     |
 |-------------------------------------------|------------------------|
 |CT-01: Verificar a responsividade da página| Funcionou corretamente |
 
+![WhatsApp Image 2024-06-09 at 11 52 22 AM](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/d101f19a-4e75-43da-9b90-894779edcf3d)
 
 
 
