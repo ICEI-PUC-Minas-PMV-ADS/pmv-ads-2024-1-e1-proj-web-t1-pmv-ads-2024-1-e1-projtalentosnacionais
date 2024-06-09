@@ -12,7 +12,7 @@ Responsável - Henrique Lelis
 
 ![telasobrenos](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164432177/3cd7c633-5b05-4cad-8881-1a7dbc193a0b)
 
-# Página Perfil Profissional
+# Página Criar Perfil Profissional
 
 Responsável - Henrique Lelis
 |Caso de teste                              | Resultados obtidos     |
@@ -26,4 +26,20 @@ Responsável - Henrique Lelis
 |CT-02: Verificar a usabilidade             | Funcionou corretamente |
 
 ![perfilprofissional2](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164432177/8ddb5965-107f-4513-bcef-c8806c4979ff)
+
+# Resultado de Busca
+
+Responsável - Henrique Lelis
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-01: Verificar a responsividade da página| Funcionou corretamente |
+
+![resultadodebusca](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164432177/023dd49c-c8b7-4840-9b5d-8c14ac4ac4c2)
+
+
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-02: Verificar a usabilidade             | os botões menu e voltar precisam ser corrigidos- estão estáticos|
+
+![resultadobusca2](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164432177/37f93e2f-62ee-4736-99e5-639314b645d8)
 
