@@ -116,10 +116,31 @@ Responsável - Gabriel de Oliveira
 
 |Caso de teste                              | Resultados obtidos     |
 |-------------------------------------------|------------------------|
-|CT-02: Verificar a usabilidade             | botões funcinado corretamente, precisando colocar link das páginas  |
+|CT-02: Verificar a usabilidade             | botões funcionando corretamente, precisando colocar link das páginas  |
 
 
 
 ![HomePage](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164515550/dfe3d217-139b-40e0-a361-1e3948e7fa6e)
+
+
+
+
+
+
+# Página Link Para As Redes
+
+Responsável - Gabriel de Oliveira
+|Caso de teste                              | Resultados obtidos     |
+|-------------------------------------------|------------------------|
+|CT-01: Verificar a responsividade da página| Funcionou corretamente |
+
+
+|Caso de teste                              | Resultados obtidos       |
+|-------------------------------------------|--------------------------|
+|CT-02: Verificar a usabilidade             | botões sem funcionalidade|
+
+
+
+![linkparaasredes](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164515550/b1fcc294-dcaf-4f33-b3dd-6346eca7f2f3)
 
 
