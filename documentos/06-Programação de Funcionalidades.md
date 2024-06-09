@@ -119,7 +119,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Requisito atendido
 
-RF-1: A aplicação deve permitir ao usuário cancelar sua conta no sistema.
+RF-11: A aplicação deve permitir ao usuário cancelar sua conta no sistema.
 
 ## Artefatos da funcionalidade
 
