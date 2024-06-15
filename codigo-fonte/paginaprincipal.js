@@ -1,24 +1,16 @@
+document.addEventListener('DOMContentLoaded', () => {
+    const formBusca = document.getElementById('formBusca');
 
-document.addEventListener('DOMContentLoaded', function() {
-    const usernameInput = document.getElementById('username'); 
-    const welcomeMessage = document.querySelector('h1');
-    const btnVoltar = document.getElementById('btn-voltar');
-    const form = document.querySelector('form');
-    const searchInput = document.getElementById('busca'); 
+    formBusca.addEventListener('submit', (event) => {
+        event.preventDefault(); // Impede o envio padrão do formulário
 
-    usernameInput.addEventListener('input', function() {
-        welcomeMessage.textContent = `Olá, ${usernameInput.value}`;
-    });
-  
-    btnVoltar.addEventListener('click', function(event) {
-        event.preventDefault();
-        window.location.href = "/home/home.html";
-    });
- 
-    form.addEventListener('submit', function(event) {
-        if (searchInput.value.trim() === "") {
-            event.preventDefault();
-            alert("Por favor, digite algo para buscar.");
+        const buscaValue = document.getElementById('Busca').value.trim();
+
+        if (buscaValue) {
+            const url = `resultadodebusca.html?query=${encodeURIComponent(buscaValue)}`;
+            window.location.href = url;
+        } else {
+            alert('Por favor, digite um termo para buscar.');
         }
     });
 });
