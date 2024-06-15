@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const confirmarInput = document.getElementById('confirmar');
     console.log("ENTROU NO JAVASCRIPT");
        form.addEventListener('submit', function(event) {
-        if (confirmarInput.value.toUpperCase() !== 'CANCELAR') {
+                if (confirmarInput.value.toUpperCase() !== 'CANCELAR') {
            alert('Por favor, digite "CANCELAR" para confirmar o cancelamento da sua conta.');
             event.preventDefault(); 
         } else {
