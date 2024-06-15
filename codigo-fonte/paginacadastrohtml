@@ -1,21 +1,22 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página de Cadastro</title>
     <link rel="stylesheet" href="paginacadastro.css">
-    <script type="module" src="paginacadas.mjs"></script>
+    <script type="module" src="paginacadastro.js"></script>
 </head>
 <body>
     <header> 
-        <a id="botaovoltar" href="home.html"><img src="botaovoltarpadrão.png" alt="voltar" /></a>   
+        <a id="botaovoltar" href="homepage.html"><img src="img/botaovoltarpadrão.png" alt="voltar" /></a>   
     </header>
     <div>
         <h2>Já Possui Conta?</h2>
-        <a href="index.html">Entre Aqui</a>
+        <a href="paginalogin.html">Entre Aqui</a>
     </div>
     <form>
-        <fieldset>     
+        <fieldset>
             <div>
                 <h1>Criar Nova Conta</h1>
             </div>
@@ -43,7 +44,9 @@
                 <button type="submit">REGISTRAR</button>
             </div>
         </fieldset>
-    </form>   
+    </form>
     <footer>
        <p> Grupo G4 - Análise e Desenvolvimento de Sistemas - Puc </p>  
     </footer>
+</body>
+</html>
