@@ -94,21 +94,6 @@ A tela Sobre Nós permitirá ao usuário compreender por qual motivo o website f
   <figcaption> Figura 9- Demonstração da Tela Sobre Nós.</figcaption>
 </figure>
 
-### Feedback do Usuário
- O feedback do usuário permitirá a equipe do projeto compreender sobre  o que ocorreu em sua interação do usuário, as dificuldades, analisar se o objetivo do produto criado foi alcançado e as experiências positivas do visitante. 
- Dessa forma poderá aprimorar a experiência.
-   
-   Na figura 10 apresenta-se o componenete:
-
-  <em>·Area de texto para edição do feedback:</em>: área de texto para edição do feedback do usuário, permitindo que os usuários faça as funções CRUD (Create, Remove, Update and Delete).
-
- <em>·Botão de Menu:</em> ao clicar no botão Menu, o usuário será apresentado as funcionalidades específicas que o usuário deseja interagir no website.<figure>
- 
- <figure> 
-  <img src="img/Feedbackdousuario.png">
-   <figcaption> Figura 10- Demonstração Feeback do Usuário.</figcaption>
-</figure>
-
 ### Informações Profissionais
  Ao ser direcionado para a página Informações Profissionais o usuário poderá criar o seu portfólio profissional personalizado com fotos e texto explicando sobre sua vida profissional, acadêmica e qual cargo almeja. 
 
