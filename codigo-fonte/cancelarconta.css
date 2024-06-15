@@ -4,12 +4,12 @@ body {
     line-height: 1.6;
     text-align: center;
     color: #0000;
-    background-image:url("imagemfundo.jpeg"); /* Substitua 'fundo.jpg' pelo caminho correto da sua imagem */
-    background-size:cover; /* Garante que a imagem cubra toda a área do body */
-    background-position: unset; /* Centraliza a imagem */
-    background-repeat: no-repeat; /* Evita que a imagem se repita */
+    background-image:url('img/imagemfundo.jpeg'); 
+    background-size:cover; 
+    background-position: unset; 
+    background-repeat: no-repeat; 
 }
-/* Estilos para o cabeçalho */
+
 header {
     display: flex;
     justify-content: space-between;
@@ -20,11 +20,11 @@ header {
 }
 
 
-/* Estilos para o h1 */
+
 h1 {
    align-items: center;
     text-align: center;
-    flex-grow: 1; /* Permite que o h1 ocupe o espaço restante */
+    flex-grow: 1;
 }
 
 h2{
@@ -40,11 +40,11 @@ p{
 
 
 header #botãovoltar img{
-    width: 60px; /* Ajusta o tamanho das imagens */
-    height: 60px; /* Mantém a proporção */
+    width: 60px; 
+    height: 60px; 
     border-radius: 30px;
 }
-/* Estilos para o conteúdo principal */
+
 main {
     max-width: 600px;
     margin: 20px auto;
@@ -56,7 +56,7 @@ main {
     border-radius: 30px;
 }
 
-/* Estilos para o formulário */
+
 form {
     margin-top: 20px;
     border-radius: 30px;
@@ -94,7 +94,7 @@ button[type="submit"]:hover {
     background-color:red;
 }
 
-/* Estilos para o rodapé */
+
 footer {
     text-align: center;
     margin-left: 20px;
