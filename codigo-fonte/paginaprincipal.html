@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Página Principal</title>
     <link rel="stylesheet" href="paginaprincipal.css">
-    <script type="module" src="telaprincipaljavascript"></script>
+    <script type="module" src="paginaprincipal.js"></script>
     <style>
         fieldset {
             padding: 100px;
@@ -45,14 +45,13 @@
             margin: 10px; 
             }
     </style>
-
 </head>
 
 <body>
     <header>
 
         <div class="header-content">
-            <a href="/home/home.html" id="btn-voltar"><img src="botaovoltarpadrão.png" alt="voltar"></a>
+            <a href="homepage.html" id="btn-voltar"><img src="img/botaovoltarpadrão.png" alt="voltar"></a>
         </div>
 
     </header>
@@ -64,27 +63,27 @@
             </div>
 
             <div>
-                <a href="/informaçõesprofissionais/informaçõesprofissionais.html"><img src="criarcurriculoimg.png" width="80"><p>Criar Perfil</p>
+                <a href="informaçõesprofissonais.html"><img src="img/criarcurriculoimg.png" width="80"><p>Criar Perfil</p>
                 </a>
             </div>
 
             <div>
-                <a href="/visualizarcurriculo/visualizarperfil"><img src="visualizarcurriculoimg.png" alt="Visualizar perfil" width="80"><p>Visualizar Perfil</p>
+                <a href="visualizarperfil.html"><img src="img/visualizarcurriculoimg.png" alt="Visualizar perfil" width="80"><p>Visualizar Perfil</p>
                 </a>
             </div>
 
             <div>
-                <a href="/cadastrarredessociais/cadastroredessociais.html"><img src="redesociaisimg.png" alt="Cadastrar Redes Sociais" width="80"><p>Cadastrar Redes Sociais</p>
+                <a href="linkparaasredes.html"><img src="img/redesociaisimg.png" alt="Cadastrar Redes Sociais" width="80"><p>Cadastrar Redes Sociais</p>
                 </a>
             </div>
 
             <div>
-                <a href="/sobrenos/sobrenos.html"><img src="sobrenosimg.png" alt="Sobre Nós" width="80"><p>Sobre Nós</p>
+                <a href="sobrenos.html"><img src="img/sobrenosimg.png" alt="Sobre Nós" width="80"><p>Sobre Nós</p>
                 </a>
             </div>
 
             <div>
-                <a href="/cancelarconta/cancelarconta.html"><img src="cancelarcontaimg.png" alt="cancelarconta" width="80"><p>Cancelar Conta</p>
+                <a href="cancelarconta.html"><img src="img/cancelarcontaimg.png" alt="cancelarconta" width="80"><p>Cancelar Conta</p>
                 </a>
             </div>
 
@@ -92,7 +91,7 @@
     </div>
 
     <div class="container">
-        <form action="/Busca" method="get">
+        <form id="formBusca">
             <input type="text" name="Busca" id="Busca" placeholder="Digite sua Busca"> 
             <button type="submit">Buscar</button>
         </form>
