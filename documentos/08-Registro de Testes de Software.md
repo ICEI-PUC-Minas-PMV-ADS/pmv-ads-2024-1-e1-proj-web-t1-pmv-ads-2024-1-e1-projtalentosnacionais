@@ -39,7 +39,7 @@ Responsável - Henrique Lelis
 
 |Caso de teste                              | Resultados obtidos     |
 |-------------------------------------------|------------------------|
-|CT-02: Verificar a usabilidade             | os botões menu e voltar precisam ser corrigidos- estão estáticos|
+|CT-02: Verificar a usabilidade             | Funcionou corretamente|
 
 ![resultadobusca2](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164432177/37f93e2f-62ee-4736-99e5-639314b645d8)
 
@@ -77,7 +77,7 @@ Responsável - Larissa Carvalho
 
 |Caso de teste                              | Resultados obtidos     |
 |-------------------------------------------|------------------------|
-|CT-02: Verificar a usabilidade             | dever ser corrigido para só cancelar quando digitado a palavra correta |
+|CT-02: Verificar a usabilidade             | Funcionou corretamente |
 
 ![Screenshot 2024-06-09 10 11 13](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/71b1330f-1dd3-4fbf-a374-655a9dbe964b)
 
@@ -98,7 +98,7 @@ Responsável - Larissa Carvalho
 
 |Caso de teste                              | Resultados obtidos     |
 |-------------------------------------------|------------------------|
-|CT-02: Verificar a usabilidade             | botões funcinado corretamente, precisando colocar link das páginas  |
+|CT-02: Verificar a usabilidade             |  Funcionou corretamente  |
 
 ![Screenshot 2024-06-09 10 11 50](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164353864/a82bd7b4-3be8-4629-becd-49c4e8de9d23)
 
@@ -116,7 +116,7 @@ Responsável - Gabriel de Oliveira
 
 |Caso de teste                              | Resultados obtidos     |
 |-------------------------------------------|------------------------|
-|CT-02: Verificar a usabilidade             | botões funcionando corretamente, precisando colocar link das páginas  |
+|CT-02: Verificar a usabilidade             |  Funcionou corretamente  |
 
 
 
