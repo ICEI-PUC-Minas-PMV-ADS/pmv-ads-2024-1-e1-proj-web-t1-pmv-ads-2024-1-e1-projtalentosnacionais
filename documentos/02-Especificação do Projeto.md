@@ -82,12 +82,8 @@ Com base nas Histórias de Usuários, foram elaborados requisitos de solução:
 | RF-05  | A aplicação deve permitir ao profissional cadastrar seu currículo.| Alta|
 | RF-06  | A aplicação deve permitir às empresas entrar em contato com o usuário, por e-mail, permitindo a comunicação entre os dois sobre vagas, assim como dar feedback sobre o perfil do profissional.| Alta|
 | RF-07  | A aplicação deve possuir links para redes sociais do profissional cadastrado. |Baixa |
-| RF-08  | O perfil do profissional deve possuir um sistema de ranking que será medido pela qualidade das indicações e boas referências.|  Baixa|
-| RF-09  | A aplicação deve permitir as empresas ofertar vagas para os profissionais.| Alta|
-| RF-10  | A aplicação deve possuir um sistema de busca/pesquisa, permitindo às empresas encontrar profissionais por meio de filtros específicos.| Alta|
-| RF-11  | A aplicação deve possuir um sistema de cancelar conta, permitindo o usuário cancelar o seu perfil.| Alta|
-|RF-12   | A aplicação deve possuir um sistema que permite o usuario ter acesso as outras paginas do site. | Alta|
-
+| RF-08  | A aplicação deve possuir um sistema de busca/pesquisa, permitindo às empresas encontrar profissionais por meio de filtros específicos.| Alta|
+| RF-09  | A aplicação deve possuir um sistema de cancelar conta, permitindo o usuário cancelar o seu perfil.| Alta|
 
 **Prioridade: Alta / Média / Baixa. 
 
