@@ -13,9 +13,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 
 ## Exemplo da tela de Home
-
-![Captura-de-tela-2024-05-12-140822](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/165951000/03c12983-8ef3-4446-864e-d2f66b057bb5)
-
+![telahome](https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais/assets/164432177/2e069ba6-50ab-458c-ab49-005284bf1301)
 
 
 ## Requisito atendido
@@ -48,8 +46,6 @@ As estruturas de dados foram baseadas em HTML, CSS e JS (Será desenvolvida na p
 ## Exemplo da tela de Login
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164515550/914fd929-12e2-438c-9d9a-ae5be6bb166b)
-
-
 
 
 ## Requisito atendido
@@ -119,7 +115,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Requisito atendido
 
-RF-11: A aplicação deve permitir ao usuário cancelar sua conta no sistema.
+RF-09: A aplicação deve permitir ao usuário cancelar sua conta no sistema.
 
 ## Artefatos da funcionalidade
 
@@ -156,8 +152,8 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 RF-2: A aplicação deve permitir ao usuário buscar por vagas.
 RF-5: A aplicação deve permitir ao profissional cadastrar seu currículo.
 RF-7: A aplicação deve possuir links para redes sociais do profissional cadastrado.
-RF-9: A aplicação deve permitir que as empresas ofereçam vagas para os profissionais.
-RF-10: A aplicação deve possuir um sistema de busca/pesquisa, permitindo às empresas encontrar profissionais por meio de filtros específicos.
+RF-8: A aplicação deve possuir um sistema de busca/pesquisa, permitindo às empresas encontrar profissionais por meio de filtros específicos.
+RF-9: A aplicação deve permitir o usuário cancelar conta.
 
 ## Artefatos da funcionalidade
 
@@ -222,7 +218,6 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 ## Exemplo da tela de cadastrar currículo
 
 ![Screenshot 2024-06-08 17 28 48](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t1-pmv-ads-2024-1-e1-projtalentosnacionais/assets/164353864/e8734eab-7591-4e2b-b022-5aedec6310e1)
-
 
 
 ## Requisito atendido
@@ -328,7 +323,7 @@ As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 ## Requisito atendido
 
-RF-10: A aplicação deve possuir resultado baseado em palavras chaves 
+RF-8:A aplicação deve possuir um sistema de busca/pesquisa, permitindo às empresas encontrar profissionais por meio de filtros específicos.
 
 ## Artefatos da funcionalidade
 
