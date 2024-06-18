@@ -8,13 +8,35 @@
 </head>
 <body>
     <div class="container">
-        <button class="social-button">Insira o link do LinkedIn</button>
-        <button class="social-button">Insira o link do Facebook</button>
-        <button class="social-button">Insira o link do Instagram</button>
-        <button class="social-button">Insira o link do Currículo Lattes</button>
-        <button class="social-button">Insira seu email</button>
-        <button class="social-button">Insira o link do Github</button>
+        <div class="social-container">
+            <button class="social-button" onclick="insertLink('LinkedIn')">Insira o link do LinkedIn</button>
+        </div>
+        <div class="social-container">
+            <button class="social-button" onclick="insertLink('Facebook')">Insira o link do Facebook</button>
+        </div>
+        <div class="social-container">
+            <button class="social-button" onclick="insertLink('Instagram')">Insira o link do Instagram</button>
+        </div>
+        <div class="social-container">
+            <button class="social-button" onclick="insertLink('Currículo Lattes')">Insira o link do Currículo Lattes</button>
+        </div>
+        <div class="social-container">
+            <button class="social-button" onclick="insertLink('Email')">Insira seu email</button>
+        </div>
+        <div class="social-container">
+            <button class="social-button" onclick="insertLink('Github')">Insira o link do Github</button>
+        </div>
     </div>
+    <script>
+        function insertLink(platform) {
+            let link = prompt(`Insira o link do ${platform}:`);
+            if (link) {
+                alert(`Link do ${platform} inserido: ${link}`);
+            }
+        }
+    </script>
 </body>
 </html>
 <link rel="stylesheet" href="style.css">
+
+<script src="newfile.js"></script>
