@@ -1,0 +1,22 @@
+message: Please cite this software using these metadata.
+title: Projeto Talentos Nacionais
+authors:
+  - family-names: De Oliveira Santos
+    given-names: Gabriel 
+  - family-names: Gardiano Silva
+    given-names: Gabryella 
+  - family-names: Rodrigues Lelis
+    given-names: Henrique
+  - family-names: Carvalho
+    given-names: Larissa 
+  - name-suffix: Professora 
+    affiliation: PUC Minas
+    family-names: de Paiva Carvalho
+    given-names: Joyce Christina 
+keywords:
+  - Analise e Desenvolvimento de Sistemas
+  - Desenvolvimento Web-Front-end
+  - Talentos Nacionais
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/talentos-nacionais
+version: 1.0.0
+date-released: 2024-06-21
